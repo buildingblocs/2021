@@ -1,5 +1,5 @@
 
-# BuildingBloCS 2019 Website
+# BuildingBloCS 2021 Website
 
 ## Development workflow
 
@@ -20,6 +20,10 @@ Install project dependencies:
 ```
 yarn install
 ```
+
+#### **Important**: 
+
+Remove yarn.lock before yarn install or install will fail. 
 
 ### Building CSS from Sass
 
