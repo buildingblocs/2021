@@ -1,53 +1,57 @@
 ---
 layout: default
 ---
-# On-going
-## BuildingBloCS 2020
 
-Invitation to participate in BuildingBloCS 2020, Singapore’s largest for students by students Computing education outreach programme.
+## BuildingBloCS 2021
 
-This year, BuildingBloCS is going ONLINE! We would like to invite all Computing students and students interested in Computing to join us for two exciting half days of fun, learning and friendship.
+Invitation to participate in BuildingBloCS 2021, Singapore’s largest for students by students Computing education outreach programme.
+
+Due to Covid-19, BuildingBloCS 2021 will be held both online and in person from {{ site.date }}. All students interested in Computing are welcome to participate in the 3 days of fun and exciting activities we have planned!
 
 <a class="btn" href="{{ site.baseurl }}/events-and-workshops">Details</a>
 
 ## Workshops
 
-Enter the realm of cyber-defenders by taking on a hands-on approach to cybersecurity, or learn how to use SQLite/NoSQL/HTML/CSS/Flask to enrich your web/mobile applications! If you are looking to refresh your programming knowledge/thinking, do drop by the Intro to Python Workshop!
+BuildingBloCS is organising 2 introductory workshops which are guaranteed to be fun and engaging. Scroll down to find out what is installed in the coming weeks!
 
-We have made a simple game using Unity in our Unity Workshop! Try it out [here!](https://buildingblocs.github.io/2020/pre-event/unitygame/)
+Also, we have made a simple game using Unity in our Unity Workshop! Try it out [here!](https://buildingblocs.github.io/2020/pre-event/unitygame/)
 
+<!--
 **All workshops are finished, but you can still view the replay on our [Youtube Channel!!](https://www.youtube.com/channel/UCWQmrxGbwU4jFBCJf7rPoFQ "BuildingBlocs Youtube")!**
+-->
 
 <a class="btn" href="{{ site.baseurl }}/pre-event/workshop">Details</a>
 
 ## BuildingBloCS Competition Series
 
-We are excited to launch a special BuildingBloCS 2020 competition series to promote awareness and appreciation of how Computing is connected to our daily lives and the world around us, starting with the appreciation of culture. It will be a secular competition with the objective of connecting festivities to Computing.
+Similar to last year, there will be a special competition series to promote awareness and appreciation of how Computing is connected to our daily lives and the world around us, starting with the appreciation of culture. It will be a secular competition with the objective of connecting festivities to Computing.
 
 <a class="btn" href="{{ site.baseurl }}/pre-event/competition">Details</a>
 
-## DataCamp Account Sign-up
+<!--
+## DataCamp Account Sign-up **NOTE TO SELF MAY CHANGE**
 If you are keen to learn about data science and would like to request for a full access DataCamp subscription, you can do so by requesting for a full access DataCamp subscription (valid til mid Sep 2020). Do note that accounts are limited.
 
 <a class="btn" href="http://tinyurl.com/bbcs20datacamp">Details</a>
 
-## Coursemology
+## Coursemology **NOTE TO SELF MAY CHANGE**
 Challenge yourself with Project Euler questions and hone your Python programming skills and mathematical knowledge. You will learn how to create different kinds of visualizations for different kinds of data and also make use of cool data science tools to start your own analyses. Join our BBCS Coursemology and start your journey!
 
 <a class="btn" href="{{ site.baseurl }}/pre-event/coursemology">Details</a>
 
-## Lucky draw
+## Lucky draw **NOTE TO SELF MAY CHANGE**
 
 Are you feeling lucky? Participants earn chances to win in regular lucky dips by participating in the various BuildingBloCS activities such as Coursemology, DataCamp, games, workshops and more. The more you participate, the luckier you get! And it is not only about prizes, you learn Computing knowledge and skills while we conduct our lucky draws too!
 
 <a class="btn" href="{{ site.baseurl }}/pre-event/luckydraw">Details</a>
+-->
 
 ## Entertainment
 
-Afraid you'll be bored by pure coding lingo and activities? (Though our activities are definitely not boring but) Fret not! We'll be having fun stuff along the way to liven up your experience! Look out for coding jokes, fun games and videos, and even mini competitions! Life is fun! 
+Afraid you'll be bored by pure coding lingo and activities? (Though our activities are definitely not boring but) Fret not! We'll be having fun stuff along the way to liven up your experience! Look out for coding jokes, fun games and videos, and even mini competitions! Life is fun!
 
-*An example to get you going: A guy walks into a bar and asks for 1.4 root beers.
-The bartender says "I'll have to charge you extra, that's a root beer float"*
+_An example to get you going: A guy walks into a bar and asks for 1.4 root beers.
+The bartender says "I'll have to charge you extra, that's a root beer float"_
 
 <br>
 # Past events
@@ -56,7 +60,8 @@ The bartender says "I'll have to charge you extra, that's a root beer float"*
 
 BuildingBloCS 2020 has partnered with **FOSSASIA** - the largest Asia-Pacific Open Source Conference this year. We are excited to announce free technology workshops for the community taking place at the FOSSASIA Summit 2019 evenings on Friday, March 15 and Saturday, March 16 as well as Saturday morning. This event is separate from main conference, but serve as a lead to help students improve their coding proficiency.
 
-The workshops that BuildingBloCS members have conducted are 
+The workshops that BuildingBloCS members have conducted are
+
 - Cybersecurity with Python
 - Socket Programming with Python
 - Web Applications with Flask with Python
@@ -67,7 +72,8 @@ The workshops that BuildingBloCS members have conducted are
 <br>
 
 ## DataCamp Outreach Workshop
-Data science and artificial intelligence have become hot topics ubiquitous in almost all industries such as business, education, healthcare, security, etc. The list never ends! 
+
+Data science and artificial intelligence have become hot topics ubiquitous in almost all industries such as business, education, healthcare, security, etc. The list never ends!
 
 Held on the 15th April 2020, participants had the opportunity to learn about these topics through DataCamp.
 
@@ -78,9 +84,10 @@ Held on the 15th April 2020, participants had the opportunity to learn about the
 ## Lightning Labs
 
 2020 is an exciting year and BuildingBloCS 2020 is trying out a new format of learning. This year, we have a new segment call Lightning Labs (previously called Lightning Workshops), it is a segment where YOU (and your friends) can:
+
 1. Showcase your projects (computing related ofc, but doesnt need to be finished products, products in development or prototypes would work too)
 2. Conduct a workshop (it can be about anything related to tech!!! eg: competitive programming, socket programming, image manipulation, video effects, etc!!)
-3. Views/opinions on the computing community in the form of interactive debates on issues such as: "is javascript too flexible such that it becomes too hard to learn?" 
-4. Come up with your own computing/tech related short lab!!! 
+3. Views/opinions on the computing community in the form of interactive debates on issues such as: "is javascript too flexible such that it becomes too hard to learn?"
+4. Come up with your own computing/tech related short lab!!!
 
 **NOTE: MAX PER TEAM: 3 PERSON**
