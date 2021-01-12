@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### 2021 Workshop Series 
+# 2021 Workshop Series 
 Looking to enter the world of computing, well BuildingBloCS is organising 2 introductory workshops which are guaranteed to be fun and engaging. Scroll down to find out what is installed in the coming weeks! 
 
 <div>
