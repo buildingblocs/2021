@@ -33,7 +33,7 @@ Celebrating our 5th year, BuildingBloCS will be back with more exciting events a
 
 ## Workshops
 
-**Workshop materials and sign-up can be found here.**
+**Workshop materials** and **sign-up** can be found here.
 [More&nbsp;details&nbsp;&raquo;]({{ site.baseurl }}/pre-event/workshop)
 
 ## Pre-events
