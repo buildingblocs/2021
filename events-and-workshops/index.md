@@ -3,7 +3,7 @@ layout: default
 published: true
 ---
 
-> ## Invitation to participate in BuildingBloCS 2021, Singapore's largest for students by students Computing education outreach programme.  
+> ## BuildingBloCS 2021 is starting off with 2 exciting workshops planned! Click below to find out more!
 
 **We have a Discord server!**  
 We would be posting regular updates through the server and it would be the easiest and quickest way to get the most up-to-date information regarding upcoming BuildingBloCS events and workshops! (Discord link would be sent to you upon signing up)
