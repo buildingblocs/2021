@@ -2,6 +2,19 @@
 layout: default
 ---
 
+### 2021 Workshop Series 
+Looking to enter the world of computing, well BuildingBloCS is organising 2 introductory workshops which are guaranteed to be fun and engaging. Scroll down to find out what is installed in the coming weeks! 
+
+> Introduction to Python (20th Jan 2021 -- 7pm to 9pm)
+  Python is a widely used, high level programming language, which means that it is easy to get started on. In this workshop, you will be learning about the fundamental skills of python, such as syntax, lists and functions.
+
+  Prerequisites: Nothing much other than a desire to learn!
+
+> Ren'Py - Visual Novels with Python (21th Jan 2021 -- 7pm to 9pm)
+  This workshop teaches the basics of renpy, a visual novel engine that makes use of python and basic computing skills. Computational programming will be taught, along with some foundational skills of python to help students be imaginative and more comfortable with coding in a creative way. Do try to install the Ren'Py software before the event @ https://www.renpy.org/latest.html
+
+  Prerequisites: Working computer and Ren'Py software installed on it 
+
 # Previously from 2020...
 
 Enter the realm of cyber-defenders by taking on a hands-on approach to cybersecurity, or learn how to use SQLite/NoSQL/HTML/CSS/Flask to enrich your web/mobile applications! If you are looking to refresh your programming knowledge/thinking, do drop by the Intro to Python Workshop! Aspiring game developers, you’ll be glad to know that Intro to Unity Workshop awaits you while those eager to enhance your project workflow should partake in the Intro to Git session. Do look at the various workshops below!
@@ -22,7 +35,6 @@ By the end of the workshop, participants would learn  <br />
 
 <br><br><strong>Prerequisites:</strong> Nothing much other than a desire to learn!<br><br>
 
-<a class="btn" href="https://youtu.be/v6thpmA7w-o">View Video</a>
 </details><br><br>
 
 <br><details>
@@ -41,7 +53,6 @@ Participants will explore the concepts of:
 
 <br><br><strong>Prerequisites:</strong> Basic Knowledge of Python (Intro to Python Workshop)<br><br>
 
-<a class="btn" href="https://youtu.be/e860nw5CemU">View Video of Part 1</a>
 </details><br><br>
 
 <br><details>
@@ -55,7 +66,6 @@ indispensable to modern life are coded in some form of JavaScript.
 At the end of the course, participants will be able to create a simple <strong>discord bot
 that tells you the time using nodejs</strong><br/><br/>
 
-<a class="btn" href="https://youtu.be/fsfcamcTUp8">View Video</a>
 </details><br><br>
 
 <br><details>
@@ -68,7 +78,6 @@ NoSQL databases come in a variety of types based on their data model. The main t
   
 <br><br><strong>Prerequisites:</strong> Basic Knowledge of Python (Intro to Python Workshop), Github account<br/><br/>
 
-<a class="btn" href="https://www.youtube.com/watch?v=UkuTpApZkrM">View Video</a>
 </details><br><br>
 
 <br><details>
@@ -82,7 +91,6 @@ In this course, we will be embarking on a Capture-the-Flag style competition whe
   
 <br><br><strong>Prerequisites:</strong> Basic Knowledge of Python would be helpful (Intro to Python Workshop)<br><br>
 
-<a class="btn" href="https://youtu.be/rGU6OluT-o4">View Video</a>
 </details><br><br>
 
 <br><details>
@@ -99,9 +107,7 @@ In Part 2, We will be learning how to make use of the slider trackbars to isolat
 certain colors of an image. We will also explore the math behind Canny Edge 
 Detection. Participants will also get to embark on a future project!
 
-<br><br><strong>Prerequisites:</strong> Basic Knowledge of Python (Intro to Python Workshop)<br><br>
-<a class="btn" href="https://youtu.be/KCQNqL-T20c">View Video of Part 1</a><br>
-<a class="btn" href="https://youtu.be/1McxruHQGQo">View Video of Part 2</a>
+<br><br><strong>Prerequisites:</strong> Basic Knowledge of Python (Intro to Python Workshop)<br><br>\
 </details><br><br>
 
 <br><details>
@@ -112,7 +118,6 @@ Open source development is increasingly prevalent in software development, power
 Participants will learn what Git is and how it is different from GitHub, what programmers can use Git for, learn to perform basic operations (commit, pull etc) using a Git GUI Client, perform simple collaborative operations (merge, forking) and understand the use of pull requests in working on public open source projects
   
 <br><br><strong>Prerequisites:</strong> A little knowledge of terminal/Command Prompt commands would be helpful but not essential<br><br>
-<a class="btn" href="https://youtu.be/NoEky790IaI">View Video</a>
 </details><br><br>
 
 <br><details>
@@ -137,7 +142,6 @@ if (Input.GetButtonDown('Jump')){
 }
   </code>
 </pre><br><br>
-<a class="btn" href="https://youtu.be/DQSdK0O2aOs">View Video</a>
 </details><br>
 </div><br><br>
 
