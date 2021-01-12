@@ -11,4 +11,4 @@ BuildlingBloCS is a yearlong outreach programme for students, by students! Activ
 ### Changes this year
 Due to the ongoing COVID-19 pandemic, this years BuildingBloCS will comprise of a mixture of online and in-person workshops and activities.
 
-## The details for the main event has been confirmed! Head over <a href="/2020/events-and-workshops/">here</a> to find out more!
+## The details for the main event has been confirmed! Head over <a href="{{ site.baseurl }}/events-and-workshops/">here</a> to find out more!
