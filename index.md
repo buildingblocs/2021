@@ -41,9 +41,9 @@ Celebrating our 5th year, BuildingBloCS will be back with more exciting events a
 **Programming puzzles, pop quizzes, fun facts** will be here. The pre-events will boost your Computing prowess and help you to contribute to the progress of Singapore as a Smart Nation one step at a time, they are definitely not to be missed!<br><br>
 [More&nbsp;details&nbsp;&raquo;]({{ site.baseurl }}/pre-event)
 
-## Event (Waiting until finalised)
+## Event
 
-[Registration is open! >>]({{ site.baseurl }}/register)
+<!-- [Registration is open! >>]({{ site.baseurl }}/register) -->
 
 A line up of **games, talks, workshops and winpetition** will be conducted on **{{ site.date }} {{ site.location }}**! Come and join us for this year's BuildingBloCS and together let us all help to build Singapore into a **Smart Nation**!<br><br>
 [More&nbsp;details&nbsp;&raquo;]({{ site.baseurl }}/events-and-workshops)
