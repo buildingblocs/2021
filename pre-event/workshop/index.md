@@ -14,7 +14,7 @@ Python is a widely used, high level programming language, which means that it is
   <strong>Prerequisites:</strong> Nothing much other than a desire to learn!
 
 </details>
-
+<br><br>
 <details>
   <summary><strong>Ren'Py - Visual Novels with Python (21th Jan 2021 -- 7pm to 9pm)</strong></summary>
 <br>
