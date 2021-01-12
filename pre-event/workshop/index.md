@@ -10,8 +10,8 @@ Looking to enter the world of computing, well BuildingBloCS is organising 2 intr
   <summary><strong>Introduction to Python (20th Jan 2021 -- 7pm to 9pm)</strong></summary>
 <br>
 Python is a widely used, high level programming language, which means that it is easy to get started on. In this workshop, you will be learning about the fundamental skills of python, such as syntax, lists and functions.
-
-Prerequisites: Nothing much other than a desire to learn!
+<br>
+  <strong>Prerequisites:</strong> Nothing much other than a desire to learn!
 
 </details>
 
@@ -19,8 +19,8 @@ Prerequisites: Nothing much other than a desire to learn!
   <summary><strong>Ren'Py - Visual Novels with Python (21th Jan 2021 -- 7pm to 9pm)</strong></summary>
 <br>
 This workshop teaches the basics of renpy, a visual novel engine that makes use of python and basic computing skills. Computational programming will be taught, along with some foundational skills of python to help students be imaginative and more comfortable with coding in a creative way. Do try to install the Ren'Py software before the event @ https://www.renpy.org/latest.html
-
-Prerequisites: Working computer and Ren'Py software installed on it 
+<br>
+  <strong>Prerequisites:</strong> Working computer and Ren'Py software installed on it 
 
 </details>
 </div>
