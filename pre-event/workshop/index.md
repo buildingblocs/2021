@@ -50,7 +50,7 @@ This week, we combine what we learn in the previous 2 weeks, and learn how to di
 If the demand is high, we will also open up a final consultation session to answer any questions you have for the actual competiton on 1 June!
 -->
 
-## Workshops at PyCon SG (on-going)
+## Workshops at PyCon SG (completed)
 
 BuildingBloCS 2019 has partnered with **Python User Group** to conduct Young Coders Workshops for students. This event is separate from main conference, but serve as a lead to help students improve their coding proficiency.
 
