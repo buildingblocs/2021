@@ -1,9 +1,9 @@
 #baseurl: "/2017"
 
 title: "BuildingBloCS"
-tagline: "High School Computer Science Conference"
-date: "7 June"
-location: "NUS School of Computing"
+tagline: "High School Computing Conference"
+date: "Wed 2 June - Fri 4 June"
+location: "Online / In Person"
 
 exclude:
   - README.md

@@ -3,7 +3,7 @@ layout: default
 published: true
 ---
 # Partners
-BuildingBloCS 2019 collaborates with various community partners to promote Computing education in Singapore schools.
+BuildingBloCS 2021 collaborates with various community partners to promote Computing education in Singapore schools.
 Interested to become a partner? Contact [buildingblocs@computing.sg](mailto:buildingblocs@computing.sg)!
 
 	
@@ -26,21 +26,21 @@ ClassDo provides virtual rooms for BuildingBloCS participants to share Computing
 		<img src="{{ site.baseurl }}/assets/img/partner/fossasia.png" title="FOSSASIA" />
 	</a>
 </section>
-BuildingBloCS conducts introductory coding workshops for the community in collaboration with [FOSSASIA Academy](https://academy.fossasia.org/) during [OpenTechSummit 2019.](http://2019.fossasia.org/#buildingbloc)
+BuildingBloCS conducts introductory coding workshops for the community in collaboration with [FOSSASIA Academy](https://academy.fossasia.org/).
 
 <section class="organisers">
   <a href="https://google.com.sg">
 		<img src="{{ site.baseurl }}/assets/img/partner/google.png" title="Google" />
 	</a>
 </section>
-Google Singapore/APAC supports BuildingBloCS 2019. Thank you Google!
+Google Singapore/APAC supports BuildingBloCS 2021. Thank you Google!
 
 <section class="organisers">
 	<a href="https://www.moe.gov.sg/">
 		<img src="{{ site.baseurl }}/assets/img/partner/moe.png" title="MOE" />
 	</a>
 </section>
-MOE CPDD Computing Education Unit supports BuildingBloCS 2019.
+MOE CPDD Computing Education Unit supports BuildingBloCS 2021.
 
 <section class="organisers">
 	<a href="https://www.comp.nus.edu.sg/">
