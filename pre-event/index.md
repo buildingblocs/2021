@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 ## BuildingBloCS 2021
 
 Invitation to participate in BuildingBloCS 2021, Singapore’s largest for students by students Computing education outreach programme.
@@ -11,9 +12,9 @@ Due to Covid-19, BuildingBloCS 2021 will be held both online and in person from 
 
 ## Workshops
 
-Workshops have yet to be finalised. Come back later for more!
+BuildingBloCS is organising 2 introductory workshops which are guaranteed to be fun and engaging. Scroll down to find out what is installed in the coming weeks!
 
-We have made a simple game using Unity in our Unity Workshop! Try it out [here!](https://buildingblocs.github.io/2020/pre-event/unitygame/)
+Also, we have made a simple game using Unity in our Unity Workshop! Try it out [here!](https://buildingblocs.github.io/2020/pre-event/unitygame/)
 
 <!--
 **All workshops are finished, but you can still view the replay on our [Youtube Channel!!](https://www.youtube.com/channel/UCWQmrxGbwU4jFBCJf7rPoFQ "BuildingBlocs Youtube")!**
@@ -47,10 +48,10 @@ Are you feeling lucky? Participants earn chances to win in regular lucky dips by
 
 ## Entertainment
 
-Afraid you'll be bored by pure coding lingo and activities? (Though our activities are definitely not boring but) Fret not! We'll be having fun stuff along the way to liven up your experience! Look out for coding jokes, fun games and videos, and even mini competitions! Life is fun! 
+Afraid you'll be bored by pure coding lingo and activities? (Though our activities are definitely not boring but) Fret not! We'll be having fun stuff along the way to liven up your experience! Look out for coding jokes, fun games and videos, and even mini competitions! Life is fun!
 
-*An example to get you going: A guy walks into a bar and asks for 1.4 root beers.
-The bartender says "I'll have to charge you extra, that's a root beer float"*
+_An example to get you going: A guy walks into a bar and asks for 1.4 root beers.
+The bartender says "I'll have to charge you extra, that's a root beer float"_
 
 <br>
 # Past events
@@ -59,7 +60,8 @@ The bartender says "I'll have to charge you extra, that's a root beer float"*
 
 BuildingBloCS 2020 has partnered with **FOSSASIA** - the largest Asia-Pacific Open Source Conference this year. We are excited to announce free technology workshops for the community taking place at the FOSSASIA Summit 2019 evenings on Friday, March 15 and Saturday, March 16 as well as Saturday morning. This event is separate from main conference, but serve as a lead to help students improve their coding proficiency.
 
-The workshops that BuildingBloCS members have conducted are 
+The workshops that BuildingBloCS members have conducted are
+
 - Cybersecurity with Python
 - Socket Programming with Python
 - Web Applications with Flask with Python
@@ -70,7 +72,8 @@ The workshops that BuildingBloCS members have conducted are
 <br>
 
 ## DataCamp Outreach Workshop
-Data science and artificial intelligence have become hot topics ubiquitous in almost all industries such as business, education, healthcare, security, etc. The list never ends! 
+
+Data science and artificial intelligence have become hot topics ubiquitous in almost all industries such as business, education, healthcare, security, etc. The list never ends!
 
 Held on the 15th April 2020, participants had the opportunity to learn about these topics through DataCamp.
 
@@ -81,9 +84,10 @@ Held on the 15th April 2020, participants had the opportunity to learn about the
 ## Lightning Labs
 
 2020 is an exciting year and BuildingBloCS 2020 is trying out a new format of learning. This year, we have a new segment call Lightning Labs (previously called Lightning Workshops), it is a segment where YOU (and your friends) can:
+
 1. Showcase your projects (computing related ofc, but doesnt need to be finished products, products in development or prototypes would work too)
 2. Conduct a workshop (it can be about anything related to tech!!! eg: competitive programming, socket programming, image manipulation, video effects, etc!!)
-3. Views/opinions on the computing community in the form of interactive debates on issues such as: "is javascript too flexible such that it becomes too hard to learn?" 
-4. Come up with your own computing/tech related short lab!!! 
+3. Views/opinions on the computing community in the form of interactive debates on issues such as: "is javascript too flexible such that it becomes too hard to learn?"
+4. Come up with your own computing/tech related short lab!!!
 
 **NOTE: MAX PER TEAM: 3 PERSON**
