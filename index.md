@@ -31,9 +31,14 @@ The theme this year is yet to be determined. Check back here next time for updat
 
 Celebrating our 5th year, BuildingBloCS will be back with more exciting events and activities for everyone! This year, BuildingBloCS '21 will be held alongside the **[CTE-STEM 2021](https://cte-stem2021.nie.edu.sg/ "CTE-STEM 2021 Website")** conference, and we hope you can join us there!
 
+## Workshops
+
+**Workshop materials and sign-up can be found here.**
+[More&nbsp;details&nbsp;&raquo;]({{ site.baseurl }}/pre-event/workshop)
+
 ## Pre-events
 
-**Workshop materials, programming puzzles, pop quizzes, fun facts** will be here. The pre-events will boost your Computing prowess and help you to contribute to the progress of Singapore as a Smart Nation one step at a time, they are definitely not to be missed!<br><br>
+**Programming puzzles, pop quizzes, fun facts** will be here. The pre-events will boost your Computing prowess and help you to contribute to the progress of Singapore as a Smart Nation one step at a time, they are definitely not to be missed!<br><br>
 [More&nbsp;details&nbsp;&raquo;]({{ site.baseurl }}/pre-event)
 
 ## Event (Placeholder until finalised)
