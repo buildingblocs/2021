@@ -10,7 +10,7 @@ Looking to enter the world of computing, well BuildingBloCS is organising 2 intr
   <summary><strong>Introduction to Python (20th Jan 2021 -- 7pm to 9pm)</strong></summary>
 <br>
 Python is a widely used, high level programming language, which means that it is easy to get started on. In this workshop, you will be learning about the fundamental skills of python, such as syntax, lists and functions.
-<br><br>
+<br><br><br>
   <strong>Prerequisites:</strong> Nothing much other than a desire to learn!
 
 </details>
