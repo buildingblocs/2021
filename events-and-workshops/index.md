@@ -31,10 +31,10 @@ A guy walks into a bar and asks for 1.4 root beers. The bartender says "I'll hav
 
 <br><br><br>
 
-> **All events are free and limited places are available. Students can register at BuildingBloCS.github.io.**<br><br> > **Those who are actively engaged will get to win attractive lucky draw prizes. :)**
+> **All events are free and limited places are available. Students can register at BuildingBloCS.github.io.**<br><br>**Those who are actively engaged will get to win attractive lucky draw prizes. :)**
 
 _One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man._
 
 <br><br><br>
 
-BuildingBloCS 2020 is proudly organised by JC and Integrated Programme Computing students in collaboration with MOE and industry partners.
+BuildingBloCS 2021 is proudly organised by JC and Integrated Programme Computing students in collaboration with MOE and industry partners.
