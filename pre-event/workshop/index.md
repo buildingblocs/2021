@@ -26,7 +26,7 @@ This workshop teaches the basics of renpy, a visual novel engine that makes use 
 </details>
 </div>
 
-## [Sign Up >>](https://forms.gle/evMVYNmAqxG97zS59)
+## [Sign Up >>](https://eventyay.com/e/df1afe8f)
 
 ---
 
