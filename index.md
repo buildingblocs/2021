@@ -15,7 +15,7 @@ published: true
             {{ site.location }}
         </p>
 	<p>
-	    <h3>BuildingBloCS will be going international with [CTE-STEM 2021](https://cte-stem2021.nie.edu.sg/ "CTE-STEM 2021 Website")!</h3>
+	    <h3>BuildingBloCS is going international with <a href="https://cte-stem2021.nie.edu.sg/">CTE-STEM 2021</a>!</h3>
 	</p>
     <br/>
     </div>
