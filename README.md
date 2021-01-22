@@ -48,4 +48,4 @@ open http://localhost:4000
 
 Visit the [Jekyll docs](https://jekyllrb.com/docs/) for more information on the [directory sturcture](https://jekyllrb.com/docs/structure/).
 
-We strongly encourage for local development as the online commmit could be messy and hard to orgainse. Thank you!
+We strongly encourage for local development as the online commmit could be messy and hard to organise. Thank you!
