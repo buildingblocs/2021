@@ -15,7 +15,7 @@ published: true
             {{ site.location }}
         </p>
 	<p>
-	    <h3>See you at BuildingBloCS this year!</h3>
+	    <h3>BuildingBloCS will be going international with [CTE-STEM 2021](https://cte-stem2021.nie.edu.sg/ "CTE-STEM 2021 Website")!</h3>
 	</p>
     <br/>
     </div>
@@ -23,13 +23,13 @@ published: true
 
 > &lsquo;A&rsquo; level / Integrated Programme and &lsquo;O&rsquo; level Computing students come together to build an infocomm-empowered future for a Better World!
 
-## Theme: TBD
+## Theme: Computational Thinking and AI Education
 
-The theme this year is yet to be determined. Check back here next time for updates!
+With the increasing importance of Computing education and AI literacy globally, this year's theme will be on Computational Thinking and Artifical Intelligence Education!
 
 ## Format
 
-Celebrating our 5th year, BuildingBloCS will be back with more exciting events and activities for everyone! This year, BuildingBloCS '21 will be held alongside the **[CTE-STEM 2021](https://cte-stem2021.nie.edu.sg/ "CTE-STEM 2021 Website")** conference, and we hope you can join us there!
+Celebrating our 5th year, BuildingBloCS will be back with more exciting events and activities for everyone! This year, BuildingBloCS '21 will be held alongside the **[5th Internationl Computational Thinking Education - STEM Conference](https://cte-stem2021.nie.edu.sg/ "CTE-STEM 2021 Website")** conference, and we hope you can join us there!
 
 ## Workshops
 
