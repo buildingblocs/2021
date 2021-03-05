@@ -4,7 +4,15 @@ layout: default
 
 # 2021 Workshop Series
 
-Looking to enter the world of computing, well BuildingBloCS is organising 2 introductory workshops which are guaranteed to be fun and engaging. Scroll down to find out what is installed in the coming weeks!
+Looking to enter the world of computing, well BuildingBloCS is organising 7 **more** introductory workshops which are guaranteed to be fun and engaging. Scroll down to find out what is installed in the coming weeks!
+
+## Ongoing/Upcoming
+
+We would be conducting 7 introductory workshops at FOSSASIA Summit 2021! Click the sign up link below to get your onsite ticket! Check out our onsite workshop's schedule [here!](https://eventyay.com/e/fa96ae2c/schedule?search=lifelong%20learning)
+
+## [Sign Up Here! >>](https://eventyay.com/e/fa96ae2c)
+
+## Completed
 
 <div>
 <details>
@@ -25,8 +33,6 @@ This workshop teaches the basics of renpy, a visual novel engine that makes use 
 
 </details>
 </div>
-
-## [Sign Up >>](https://eventyay.com/e/df1afe8f)
 
 ---
 
