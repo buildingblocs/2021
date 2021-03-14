@@ -139,18 +139,18 @@ html {
 	color: #000;
 	background-color: #fff;
 	color-profile: sRGB;
-	-webkit-tap-highlight-color: rgba(138, 3, 3, 0.667);
+	-webkit-tap-highlight-color: #ff9900;
 }
 ::-moz-selection {
-	background: #8a0303;
+	background: #ff9900;
 	color: #fff;
 }
 ::selection {
-	background: #8a0303;
+	background: #ff9900;
 	color: #fff;
 }
 ::-moz-selection {
-	background: #8a0303;
+	background: #ff9900;
 	color: #fff;
 }
 body {
@@ -251,7 +251,7 @@ blockquote {
 	font-size: 1.2em;
 	font-style: italic;
 	font-weight: inherit;
-	border-left: 6px solid #8a0303;
+	border-left: 6px solid #ff9900;
 	padding-left: 0.6em;
 	padding-right: 0.6em;
 }
@@ -259,7 +259,7 @@ blockquote {
 	text-align: center;
 }
 .brand {
-	color: #8a0303;
+	color: #ff9900;
 	font-style: normal;
 	font-weight: 500;
 	font-size: 1.2em;
@@ -296,7 +296,7 @@ td {
 }
 .link,
 a[href] {
-	color: #8a0303;
+	color: #ff9900;
 	text-decoration: none;
 	font-style: inherit;
 	font-weight: inherit;
@@ -331,9 +331,9 @@ a[href]:active {
 .btn,
 a.btn,
 .links .btn {
-	background-color: #8a0303;
+	background-color: #ff9900;
 	color: #fff;
-	border: 2px solid #8a0303;
+	border: 2px solid #ff9900;
 	border-radius: 2em;
 	line-height: 1.2;
 	padding: 0.222222em 0.555555em;
@@ -347,7 +347,7 @@ a.btn,
 a.btn:hover,
 .links .btn:hover {
 	background-color: #fff;
-	color: #8a0303;
+	color: #ffc979ce;
 }
 .btn.disabled,
 .btn:disabled,
@@ -371,12 +371,12 @@ a.btn i,
 .invert .btn,
 .invert a.btn {
 	background-color: #fff;
-	color: #8a0303;
+	color: #ff9900;
 	border-color: #fff;
 }
 .invert .btn:hover,
 .invert a.btn:hover {
-	background-color: #8a0303;
+	background-color: #ffc979ce;
 	color: #fff;
 }
 .navigation,
@@ -424,7 +424,7 @@ main {
 	-ms-flex-pack: center;
 	justify-content: center;
 	text-align: center;
-	color: #8a0303;
+	color: #ff9900;
 	font-family: "Barlow Condensed", "Avenir Next Condensed",
 		"Franklin Gothic Medium", "sans-serif";
 	font-style: normal;
@@ -435,7 +435,7 @@ main {
 }
 .navigation .link,
 .navigation a[href] {
-	color: #8a0303;
+	color: #ff9900;
 	text-decoration: none;
 	font-style: inherit;
 	font-weight: inherit;
@@ -444,11 +444,11 @@ main {
 }
 .navigation .link:hover,
 .navigation a[href]:hover {
-	color: #8a0303;
+	color: #ffc979ce;
 }
 .navigation .link:active,
 .navigation a[href]:active {
-	color: #8a0303;
+	color: #ffc979ce;
 }
 .navigation .brand {
 	-webkit-box-flex: 1;
@@ -509,11 +509,11 @@ main {
 }
 .invert .navigation .link:hover,
 .invert .navigation a[href]:hover {
-	color: rgba(219, 177, 177, 0.98335);
+	color:#ffc979ce;
 }
 .invert .navigation .link:active,
 .invert .navigation a[href]:active {
-	color: rgba(219, 177, 177, 0.98335);
+	color: #ff9900;
 }
 .navigation-wrapper {
 	position: fixed;
@@ -525,7 +525,7 @@ main {
 	transition: background-color 0.6s;
 }
 .invert.navigation-wrapper {
-	background-color: rgba(138, 3, 3, 0.95);
+	background-color: #ff9900;
 }
 .footer-wrapper {
 	background-color: #fff;
@@ -544,12 +544,12 @@ main {
 	-webkit-box-pack: left;
 	-ms-flex-pack: left;
 	justify-content: left;
-	color: #7c0303;
+	color: #ff9900;
 	background-color: #fff;
 }
 .footer .link,
 .footer a[href] {
-	color: #7c0303;
+	color: #ff9900;
 	text-decoration: none;
 	font-style: inherit;
 	font-weight: inherit;
@@ -558,11 +558,11 @@ main {
 }
 .footer .link:hover,
 .footer a[href]:hover {
-	color: #a85757;
+	color: #ffc979ce;
 }
 .footer .link:active,
 .footer a[href]:active {
-	color: #a85757;
+	color: #ffc979ce;
 }
 .footer .column {
 	margin: 0 1rem;
