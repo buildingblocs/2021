@@ -139,7 +139,7 @@ html {
 	color: #000;
 	background-color: #fff;
 	color-profile: sRGB;
-	-webkit-tap-highlight-color: #ff9900;
+	-webkit-tap-highlight-color: rgba(255, 153, 0, 0.667);
 }
 ::-moz-selection {
 	background: #ff9900;
@@ -347,7 +347,7 @@ a.btn,
 a.btn:hover,
 .links .btn:hover {
 	background-color: #fff;
-	color: #ffc979ce;
+	color: #ff9900;
 }
 .btn.disabled,
 .btn:disabled,
@@ -376,7 +376,7 @@ a.btn i,
 }
 .invert .btn:hover,
 .invert a.btn:hover {
-	background-color: #ffc979ce;
+	background-color: #ff9900;
 	color: #fff;
 }
 .navigation,
@@ -444,11 +444,11 @@ main {
 }
 .navigation .link:hover,
 .navigation a[href]:hover {
-	color: #ffc979ce;
+	color: #ff9900;
 }
 .navigation .link:active,
 .navigation a[href]:active {
-	color: #ffc979ce;
+	color: #ff9900;
 }
 .navigation .brand {
 	-webkit-box-flex: 1;
@@ -509,11 +509,11 @@ main {
 }
 .invert .navigation .link:hover,
 .invert .navigation a[href]:hover {
-	color:#ffc979ce;
+	color:rgba(255, 201, 121, 0.98335);
 }
 .invert .navigation .link:active,
 .invert .navigation a[href]:active {
-	color: #ff9900;
+	color: rgba(255, 201, 121, 0.98335);
 }
 .navigation-wrapper {
 	position: fixed;
@@ -525,7 +525,7 @@ main {
 	transition: background-color 0.6s;
 }
 .invert.navigation-wrapper {
-	background-color: #ff9900;
+	background-color: rgba(255, 153, 0, 0.95);
 }
 .footer-wrapper {
 	background-color: #fff;
