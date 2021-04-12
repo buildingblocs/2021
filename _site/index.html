@@ -3,7 +3,7 @@
 <head>
 
     <meta charset="UTF-8">
-    <title>BuildingBloCS</title>
+    <title>BuildingBloCS + CTE-STEM</title>
     <meta name="author" content="">
     
     <meta name="viewport" content="width=device-width">
@@ -19,94 +19,112 @@
 <body>
     
     <form class="navigation-wrapper">
-    <nav class="navigation">
-        <div class="brand">
-            <a href="/" title="Home">
-                <i class="logo icon" aria-hidden="true">logo</i>
-                <span class="name">BuildingBloCS</span>
-            </a>
-        </div>
-        <label for="menu" class="icon">menu</label>
-        <input id="menu" type="checkbox" />
+	<nav class="navigation">
+		<div class="brand">
+			<a href="/" title="Home">
+				<i class="logo icon" aria-hidden="true">logo</i>
+				<span class="name">BuildingBloCS + CTE-STEM</span>
+			</a>
+		</div>
+		<label for="menu" class="icon">menu</label>
+		<input id="menu" type="checkbox" />
 
-        <ul class="links">
-            <!-- <li class="link"><a href="/">Home</a></li> -->
-            <li class="link"><a href="/pre-event">Join Us</a></li>
-            <li class="link"><a href="/about">About</a></li>
-            <li class="link dropdown"><a>Events & Workshops</a>
-                <i class="fa fa-caret-down"></i>
-                <div class="dropdown-content">
-                    <a href="/events-and-workshops">Main Events</a>
-                    <!--a href="/pre-event">Overview</a-->
-                    <a href="/pre-event/workshop">Workshops</a>
-                    <!--<a href="/pre-event/bbq">BBQ Event</a> -->
-                    <a href="/pre-event/competition">Competitions</a>
-                    <a href="/pre-event/luckydraw">Lucky Draws</a>
-                    <!--<a href="/pre-event/coursemology">Coursemology</a> -->
-                    <a href="/pre-event/unitygame">Game</a>
-                </div>
-            </li>
-            <!--<li class="link"><a href="/past">Past Years</a></li>-->
-            <li class="link dropdown"><a>Past Years</a>
-                <i class="fa fa-caret-down"></i>
-                <div class="dropdown-content">
-                    <!--<a href="/past-years/2020/">2020</a>-->
-                    <!--<a href="/past-years/2019/">2019</a>-->
-                    <!--<a href="/past-years/2018/">2018</a>-->
-                    <!--<a href="/past-years/2017/">2017</a>-->
-                    <a href="https://buildingblocs.github.io/2020" target="_blank" rel="noopener noreferrer">2020</a>
-                    <a href="https://buildingblocs.github.io/2019" target="_blank" rel="noopener noreferrer">2019</a>
-                    <a href="https://buildingblocs.github.io/2018" target="_blank" rel="noopener noreferrer">2018</a>
-                    <a href="https://buildingblocs.github.io/2017" target="_blank" rel="noopener noreferrer">2017</a>
-                </div>
-
-            </li>
-            <li class="link"><a href="/partners">Partners</a></li>
-
-        </ul>
-
-
-    </nav>
+		<ul class="links">
+			<!-- <li class="link"><a href="/">Home</a></li> -->
+			<li class="link"><a href="/pre-event">Join Us</a></li>
+			<li class="link"><a href="/about">About</a></li>
+			<li class="link dropdown">
+				<a>Events & Workshops</a>
+				<i class="fa fa-caret-down"></i>
+				<div class="dropdown-content">
+					<a href="/events-and-workshops">Main Events</a>
+					<!--a href="/pre-event">Overview</a-->
+					<a href="/pre-event/workshop">Workshops</a>
+					<!--<a href="/pre-event/bbq">BBQ Event</a> -->
+					<a href="/pre-event/competition">Competitions</a>
+					<!--<a href="/pre-event/luckydraw">Lucky Draws</a> -->
+					<!--<a href="/pre-event/coursemology">Coursemology</a> -->
+					<!--<a href="/pre-event/unitygame">Game</a>-->
+				</div>
+			</li>
+			<!--<li class="link"><a href="/past">Past Years</a></li>-->
+			<li class="link dropdown">
+				<a>Past Years</a>
+				<i class="fa fa-caret-down"></i>
+				<div class="dropdown-content">
+					<!--<a href="/past-years/2020/">2020</a>-->
+					<!--<a href="/past-years/2019/">2019</a>-->
+					<!--<a href="/past-years/2018/">2018</a>-->
+					<!--<a href="/past-years/2017/">2017</a>-->
+					<a
+						href="https://buildingblocs.github.io/2020"
+						target="_blank"
+						rel="noopener noreferrer"
+						>2020</a
+					>
+					<a
+						href="https://buildingblocs.github.io/2019"
+						target="_blank"
+						rel="noopener noreferrer"
+						>2019</a
+					>
+					<a
+						href="https://buildingblocs.github.io/2018"
+						target="_blank"
+						rel="noopener noreferrer"
+						>2018</a
+					>
+					<a
+						href="https://buildingblocs.github.io/2017"
+						target="_blank"
+						rel="noopener noreferrer"
+						>2017</a
+					>
+				</div>
+			</li>
+			<li class="link"><a href="/partners">Partners</a></li>
+		</ul>
+	</nav>
 </form>
 <style type="text/css">
-    .dropdown-content {
-        display: none;
-        position: absolute;
-        background-color:rgba(255,255,255,0.95);
-        min-width: 160px;
-        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-        z-index: 1;
-    }
+	.dropdown-content {
+		display: none;
+		position: absolute;
+		background-color: rgba(255, 255, 255, 0.95);
+		min-width: 160px;
+		box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+		z-index: 1;
+	}
 
-    .invert .dropdown-content{
-        display: none;
-        position: absolute;
-        background-color:rgba(255, 153, 0, 0.95);
-        min-width: 160px;
-        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-        z-index: 1;
-    }
-    .dropdown-content a {
-        float: none;
-        color: black;
-        padding: 12px 16px;
-        text-decoration: none;
-        display: block;
-        text-align: left;
-    }
+	.invert .dropdown-content {
+		display: none;
+		position: absolute;
+		background-color: rgba(255, 153, 0, 0.95);
+		min-width: 160px;
+		box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+		z-index: 1;
+	}
+	.dropdown-content a {
+		float: none;
+		color: black;
+		padding: 12px 16px;
+		text-decoration: none;
+		display: block;
+		text-align: left;
+	}
 
-    .dropdown-content a:hover {
-        color: #ffc979;
-    }
+	.dropdown-content a:hover {
+		color: #ffc979;
+	}
 
-    .navbar a:hover, .dropdown:hover .dropbtn {
-        background-color: red;
-    }
+	.navbar a:hover,
+	.dropdown:hover .dropbtn {
+		background-color: red;
+	}
 
-
-    .dropdown:hover .dropdown-content {
-        display: block;
-    }
+	.dropdown:hover .dropdown-content {
+		display: block;
+	}
 </style>
 
     
@@ -114,7 +132,7 @@
         <section class="jumbo">
     <div class="main-div">
         <h1>
-            BuildingBloCS<br />
+            BuildingBloCS + CTE-STEM<br />
             <span class="huge">2021</span>
         </h1>
         <p>
@@ -123,7 +141,9 @@
             Online / In Person
         </p>
 	<p>
-	    <h3>See you at BuildingBloCS this year!</h3>
+	    <h3>BuildingBloCS is going international with <a href="https://cte-stem2021.nie.edu.sg/">CTE-STEM 2021</a>!</h3>
+        <h3>Registeration for BuildingBloCS 2021 is now open!</h3>
+        <a class="btn" href="https://tinyurl.com/bbcs21-discord">Sign up now!</a>
 	</p>
     <br />
     </div>
@@ -133,24 +153,32 @@
   <p>‘A’ level / Integrated Programme and ‘O’ level Computing students come together to build an infocomm-empowered future for a Better World!</p>
 </blockquote>
 
-<h2 id="theme-tbd">Theme: TBD</h2>
+<h2 id="theme-computational-thinking-and-ai-education">Theme: Computational Thinking and AI Education</h2>
 
-<p>The theme this year is yet to be determined. Check back here next time for updates!</p>
+<p>With the increasing importance of Computing education and AI literacy globally, this year’s theme will be on Computational Thinking and Artifical Intelligence Education!</p>
 
-<h2 id="format">Format</h2>
+<!--
+## Format
 
-<p>Celebrating our 5th year, BuildingBloCS will be back with more exciting events and activities for everyone! This year, BuildingBloCS ‘21 will be held alongside the <strong><a href="ttps://cte-stem2021.nie.edu.sg/" title="CTE-STEM 2021 Website">CTE-STEM 2021</a></strong> conference, and we hope you can join us there!</p>
+Celebrating our 5th year, BuildingBloCS will be back with more exciting events and activities for everyone! This year, BuildingBloCS '21 will be held alongside the **[5th Internationl Computational Thinking Education - STEM Conference](https://cte-stem2021.nie.edu.sg/ "CTE-STEM 2021 Website")**, and we hope you can join us there!
 
-<h2 id="pre-events">Pre-events</h2>
+## Workshops
 
-<p><strong>Workshop materials, programming puzzles, pop quizzes, fun facts</strong> will be here. The pre-events will boost your Computing prowess and help you to contribute to the progress of Singapore as a Smart Nation one step at a time, they are definitely not to be missed!<br /><br />
-<a href="/pre-event">More details »</a></p>
+**Workshop materials** and **sign-up** can be found here.<br><br>
+[More&nbsp;details&nbsp;&raquo;](/pre-event/workshop)
 
-<h2 id="event-placeholder-until-finalised">Event (Placeholder until finalised)</h2>
-<p><a href="/register">Registration is open! »</a></p>
+## Pre-events
 
-<p>A line up of <strong>games, talks, workshops and winpetition</strong> will be conducted on <strong>Wed 2 June - Fri 4 June Online / In Person</strong>! Come and join us for this year’s BuildingBloCS and together let us all help to build Singapore into a <strong>Smart Nation</strong>!<br /><br />
-<a href="/events-and-workshops">More details »</a></p>
+**Programming puzzles, pop quizzes, fun facts** will be here. The pre-events will boost your Computing prowess and help you to contribute to the progress of Singapore as a Smart Nation one step at a time, they are definitely not to be missed!<br><br>
+[More&nbsp;details&nbsp;&raquo;](/pre-event)
+
+## Event
+
+[Registration is open! >>](/register)
+
+A line up of **games, talks, workshops and winpetition** will be conducted on **Wed 2 June - Fri 4 June Online / In Person**! Come and join us for this year's BuildingBloCS and together let us all help to build Singapore into a **Smart Nation**!<br><br>
+[More&nbsp;details&nbsp;&raquo;](/events-and-workshops)
+-->
 
 <h2 id="organisers">Organisers</h2>
 
@@ -193,11 +221,15 @@
     </a>
     
     <a href="https://rivervalleyhigh.moe.edu.sg/">
-        <img src="/assets/img/sch/rvhs.png" title="River Valley High School" />
+        <img src="/assets/img/sch/rvjc.png" title="River Valley Junior College" />
     </a>
     
     <a href="https://yijc.moe.edu.sg/">
         <img src="/assets/img/sch/yijc.png" title="Yishun Innova Junior College" />
+    </a>
+    
+    <a href="https://www.temasekjc.moe.edu.sg/">
+        <img src="/assets/img/sch/tjc.png" title="Tamesak Junior College" />
     </a>
     
 </section>
@@ -264,8 +296,8 @@
 			</div>
 			<div class="group">
 				<ul class="links">
-                    <li class="link"><a href="https://instagram.com/buildingblocs18" target="_blank"><i class="icon" aria-hidden="true">instagram</i> Instagram</a></li>
-                    <li class="link"><a href="https://github.com/buildingblocs" target="_blank"><i class="icon" aria-hidden="true">github</i> GitHub</a></li>
+					<li class="link"><a href="https://instagram.com/buildingblocs21" target="_blank"><i class="icon" aria-hidden="true">instagram</i> Instagram</a></li>
+					<li class="link"><a href="https://github.com/buildingblocs" target="_blank"><i class="icon" aria-hidden="true">github</i> GitHub</a></li>
 				</ul>
 			</div>
 			<div class="group">

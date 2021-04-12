@@ -8,19 +8,21 @@ Invitation to participate in BuildingBloCS 2021, Singapore’s largest for stude
 
 Due to Covid-19, BuildingBloCS 2021 will be held both online and in person from {{ site.date }}. All students interested in Computing are welcome to participate in the 3 days of fun and exciting activities we have planned!
 
-<a class="btn" href="{{ site.baseurl }}/events-and-workshops">Details</a>
+<a class="btn" href="https://tinyurl.com/bbcs21-discord ">Sign up now!</a>
 
 ## Workshops
 
-BuildingBloCS is organising 2 introductory workshops which are guaranteed to be fun and engaging. Scroll down to find out what is installed in the coming weeks!
+We have completed our Fossasia Workshop. Check it out [here]()!
 
-Also, we have made a simple game using Unity in our Unity Workshop! Try it out [here!](https://buildingblocs.github.io/2020/pre-event/unitygame/)
+There will be more Workshops to come so stay tuned and check out our [Discord]() after you have signed up!
+
+<!-- Also, we have made a simple game using Unity in our Unity Workshop! Try it out [here!](https://buildingblocs.github.io/2020/pre-event/unitygame/) -->
 
 <!--
 **All workshops are finished, but you can still view the replay on our [Youtube Channel!!](https://www.youtube.com/channel/UCWQmrxGbwU4jFBCJf7rPoFQ "BuildingBlocs Youtube")!**
 -->
 
-<a class="btn" href="{{ site.baseurl }}/pre-event/workshop">Details</a>
+<!-- <a class="btn" href="{{ site.baseurl }}/pre-event/workshop">Details</a> -->
 
 ## BuildingBloCS Competition Series
 
@@ -54,6 +56,8 @@ _An example to get you going: A guy walks into a bar and asks for 1.4 root beers
 The bartender says "I'll have to charge you extra, that's a root beer float"_
 
 <br>
+
+<!--
 # Past events
 
 ## Workshops at FOSSASIA
@@ -91,3 +95,4 @@ Held on the 15th April 2020, participants had the opportunity to learn about the
 4. Come up with your own computing/tech related short lab!!!
 
 **NOTE: MAX PER TEAM: 3 PERSON**
+-->

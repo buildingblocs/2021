@@ -16,6 +16,8 @@ published: true
         </p>
 	<p>
 	    <h3>BuildingBloCS is going international with <a href="https://cte-stem2021.nie.edu.sg/">CTE-STEM 2021</a>!</h3>
+        <h3>Registeration for BuildingBloCS 2021 is now open!</h3>
+        <a class="btn" href="https://tinyurl.com/bbcs21-discord">Sign up now!</a>
 	</p>
     <br/>
     </div>
@@ -27,6 +29,7 @@ published: true
 
 With the increasing importance of Computing education and AI literacy globally, this year's theme will be on Computational Thinking and Artifical Intelligence Education!
 
+<!--
 ## Format
 
 Celebrating our 5th year, BuildingBloCS will be back with more exciting events and activities for everyone! This year, BuildingBloCS '21 will be held alongside the **[5th International Computational Thinking Education - STEM Conference](https://cte-stem2021.nie.edu.sg/ "CTE-STEM 2021 Website")**, and we hope you can join us there!
@@ -43,10 +46,11 @@ Celebrating our 5th year, BuildingBloCS will be back with more exciting events a
 
 ## Event
 
-<!-- [Registration is open! >>]({{ site.baseurl }}/register) -->
+[Registration is open! >>]({{ site.baseurl }}/register)
 
 A line up of **games, talks, workshops and winpetition** will be conducted on **{{ site.date }} {{ site.location }}**! Come and join us for this year's BuildingBloCS and together let us all help to build Singapore into a **Smart Nation**!<br><br>
 [More&nbsp;details&nbsp;&raquo;]({{ site.baseurl }}/events-and-workshops)
+-->
 
 ## Organisers
 
