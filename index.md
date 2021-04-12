@@ -32,7 +32,7 @@ With the increasing importance of Computing education and AI literacy globally, 
 <!--
 ## Format
 
-Celebrating our 5th year, BuildingBloCS will be back with more exciting events and activities for everyone! This year, BuildingBloCS '21 will be held alongside the **[5th Internationl Computational Thinking Education - STEM Conference](https://cte-stem2021.nie.edu.sg/ "CTE-STEM 2021 Website")**, and we hope you can join us there!
+Celebrating our 5th year, BuildingBloCS will be back with more exciting events and activities for everyone! This year, BuildingBloCS '21 will be held alongside the **[5th International Computational Thinking Education - STEM Conference](https://cte-stem2021.nie.edu.sg/ "CTE-STEM 2021 Website")**, and we hope you can join us there!
 
 ## Workshops
 
