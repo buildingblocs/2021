@@ -508,7 +508,7 @@ main {
 
 .navigation .link:hover,
 .navigation a[href]:hover {
-	color: rgba(255,201,121,0.98335);
+	color: rgba(255, 201, 121, 0.98335);
 }
 
 .navigation .link:active,
