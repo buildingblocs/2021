@@ -151,17 +151,17 @@ html {
 }
 
 ::-moz-selection {
-	background: #8a0303;
+	background: #ff9900;
 	color: white;
 }
 
 ::selection {
-	background: #8a0303;
+	background: #ff9900;
 	color: white;
 }
 
 ::-moz-selection {
-	background: #8a0303;
+	background: #ff9900;
 	color: white;
 }
 
@@ -283,7 +283,7 @@ blockquote {
 	font-size: 1.2em;
 	font-style: italic;
 	font-weight: inherit;
-	border-left: 6px solid #8a0303;
+	border-left: 6px solid #ff9900;
 	padding-left: 0.6em;
 	padding-right: 0.6em;
 }
@@ -293,7 +293,7 @@ blockquote {
 }
 
 .brand {
-	color: #8a0303;
+	color: #ff9900;
 	font-style: normal;
 	font-weight: 500;
 	font-size: 1.2em;
@@ -338,7 +338,7 @@ td {
 
 .link,
 a[href] {
-	color: #8a0303;
+	color: #ff9900;
 	text-decoration: none;
 	font-style: inherit;
 	font-weight: inherit;
@@ -379,9 +379,9 @@ a[href]:active {
 .btn,
 a.btn,
 .links .btn {
-	background-color: #8a0303;
+	background-color: #ff9900;
 	color: #fff;
-	border: 2px solid #8a0303;
+	border: 2px solid #ff9900;
 	border-radius: 2em;
 	line-height: 1.2;
 	padding: 0.222222em 0.555555em;
@@ -396,7 +396,7 @@ a.btn,
 a.btn:hover,
 .links .btn:hover {
 	background-color: #fff;
-	color: #8a0303;
+	color: #ff9900;
 }
 
 .btn.disabled,
@@ -424,13 +424,13 @@ a.btn i,
 .invert .btn,
 .invert a.btn {
 	background-color: #fff;
-	color: #8a0303;
+	color: #ff9900;
 	border-color: #fff;
 }
 
 .invert .btn:hover,
 .invert a.btn:hover {
-	background-color: #8a0303;
+	background-color:#ff9900;
 	color: #fff;
 }
 
@@ -486,7 +486,7 @@ main {
 	-ms-flex-pack: center;
 	justify-content: center;
 	text-align: center;
-	color: #8a0303;
+	color: #ff9900;
 	font-family: "Barlow Condensed", "Avenir Next Condensed",
 		"Franklin Gothic Medium", "sans-serif";
 	font-style: normal;
@@ -498,7 +498,7 @@ main {
 
 .navigation .link,
 .navigation a[href] {
-	color: #8a0303;
+	color: #ff9900;
 	text-decoration: none;
 	font-style: inherit;
 	font-weight: inherit;
@@ -508,12 +508,12 @@ main {
 
 .navigation .link:hover,
 .navigation a[href]:hover {
-	color: rgba(255, 220, 198, 0.98335);
+	color: rgba(255, 201, 121, 0.98335);
 }
 
 .navigation .link:active,
 .navigation a[href]:active {
-	color: #8a0303;
+	color: #ff9900;
 }
 
 .navigation .brand {
@@ -584,12 +584,12 @@ main {
 
 .invert .navigation .link:hover,
 .invert .navigation a[href]:hover {
-	color: rgba(255, 220, 198, 0.98335);
+	color: rgba(255, 201, 121, 0.98335);
 }
 
 .invert .navigation .link:active,
 .invert .navigation a[href]:active {
-	color: rgba(255, 220, 198, 0.98335);
+	color:rgba(255, 201, 121, 0.98335);
 }
 
 .navigation-wrapper {
@@ -603,7 +603,7 @@ main {
 }
 
 .invert.navigation-wrapper {
-	background-color: rgba(138, 3, 3, 0.95);
+	background-color: rgba(255, 153, 0, 0.95);
 }
 
 .footer-wrapper {
@@ -624,13 +624,13 @@ main {
 	-webkit-box-pack: left;
 	-ms-flex-pack: left;
 	justify-content: left;
-	color: #8a0303;
+	color: #ff9900;
 	background-color: white;
 }
 
 .footer .link,
 .footer a[href] {
-	color: #8a0303;
+	color: #ff9900;
 	text-decoration: none;
 	font-style: inherit;
 	font-weight: inherit;
@@ -640,12 +640,12 @@ main {
 
 .footer .link:hover,
 .footer a[href]:hover {
-	color: #a2d3fb;
+	color:#a2d3fb;
 }
 
 .footer .link:active,
 .footer a[href]:active {
-	color: #a2d3fb;
+	color:#a2d3fb;
 }
 
 .footer .column {

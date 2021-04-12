@@ -65,7 +65,7 @@ Our entertainment leads Zhicheng and Kylie will bring you an exciting entertainm
 	.pmiddle{
 		text-align: center;
 		color:#fff;
-		background-color: #8a0303;
+		background-color: #ff9900;
 	}
 	.middle {
 	  	width: 50%;
