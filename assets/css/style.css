@@ -584,12 +584,12 @@ main {
 
 .invert .navigation .link:hover,
 .invert .navigation a[href]:hover {
-	color: rgba(255,201,121,0.98335);
+	color: rgba(255, 201, 121, 0.98335);
 }
 
 .invert .navigation .link:active,
 .invert .navigation a[href]:active {
-	color:rgba(255,201,121,0.98335);
+	color:rgba(255, 201, 121, 0.98335);
 }
 
 .navigation-wrapper {
