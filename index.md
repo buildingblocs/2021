@@ -16,14 +16,12 @@ published: true
         </p>
 	<p>
 	    <h3>BuildingBloCS is going international with <a href="https://cte-stem2021.nie.edu.sg/">CTE-STEM 2021</a>!</h3>
-        <h3>Registeration for BuildingBloCS 2021 is now open!</h3>
-        <a class="btn" href="https://tinyurl.com/bbcs21-discord">Sign up now!</a>
+        <h3>Registration for BuildingBloCS 2021 is now open!</h3>
+        <a class="btn brand" href="https://tinyurl.com/bbcs21-discord">Sign up now!</a>
 	</p>
     <br/>
     </div>
 </section>
-
-> &lsquo;A&rsquo; level / Integrated Programme and &lsquo;O&rsquo; level Computing students come together to build an infocomm-empowered future for a Better World!
 
 ## Theme: Computational Thinking and AI Education
 

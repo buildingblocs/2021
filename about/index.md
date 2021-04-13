@@ -9,6 +9,8 @@ published: true
 
 BuildlingBloCS is a yearlong outreach programme for students, by students! Activities and workshops will be conducted by JC Computing students, guided by their teachers, to educate people around the nation about the wonders of Computing, and spread its love :3. Activities need not be entirely technical, and they can be something like creatively integrating Computing concepts into usual activities!
 
+> &lsquo;A&rsquo; level / Integrated Programme and &lsquo;O&rsquo; level Computing students come together to build an infocomm-empowered future for a Better World!
+
 ### What is CTE-STEM?
 
 CTE-STEM 2021 will be a forum for worldwide sharing of ideas as well as dissemination of findings and outcomes on the implementation of computational thinking and STEM development.

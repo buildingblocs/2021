@@ -5,8 +5,4 @@ published: true
 
 # Contact
 
-Drop an email to [buildingblocs@computing.sg](mailto:buildingblocs@computing.sg)
-
-# Location
-
-The location for BuildingBloCS 2021 has not been finalised yet.
+Drop an email to [hello@buildingblocs.sg](mailto:hello@buildingblocs.sg) to contact us. :D
