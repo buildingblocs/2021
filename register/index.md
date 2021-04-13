@@ -4,7 +4,7 @@ layout: default
 
 # Register
 
-Registration for BuildingBloCS 2021 is not open yet.
+Registration for BuildingBloCS 2021 is now open! Check out our registration form [here](https://tinyurl.com/bbcs21-discord) to join us!
 
 <!--
 >BuildingBloCS20 conference registration is open for all secondary school and pre-university students and teachers interested in Computing.

@@ -4,11 +4,11 @@ layout: default
 
 # 2021 Workshop Series
 
-Looking to enter the world of computing, well BuildingBloCS is organising 7 **more** introductory workshops which are guaranteed to be fun and engaging. Scroll down to find out what is installed in the coming weeks!
+Looking to enter the world of computing, well BuildingBloCS has organised 7 **more** introductory workshops which are guaranteed to be fun and engaging. Scroll down to find out more on what this is about!
 
 ## Ongoing/Upcoming
 
-We would be conducting 7 introductory workshops at FOSSASIA Summit 2021! Click the sign up link below to get your onsite ticket! Check out our onsite workshop's schedule [here!](https://eventyay.com/e/fa96ae2c/schedule?search=lifelong%20learning)
+We have had our 7 introductory workshops at FOSSASIA Summit 2021! Click the link [here](https://eventyay.com/e/fa96ae2c/schedule?search=lifelong%20learning) to check out our onsite workshop's schedule!
 
 <div>
 <details>
@@ -69,8 +69,8 @@ MongoDB is a source-available cross-platform document-oriented database program.
 </div>
 
 
-
-## [Sign Up Here! >>](https://eventyay.com/e/fa96ae2c)
+<br>
+<!-- ## [Sign Up Here! >>](https://eventyay.com/e/fa96ae2c) -->
 
 ---
 
@@ -102,7 +102,11 @@ This workshop teaches the basics of renpy, a visual novel engine that makes use 
 
 ---
 
-## [BuildingBloCS Youtube](https://www.youtube.com/channel/UCWQmrxGbwU4jFBCJf7rPoFQ)
+## BuildingBloCS Youtube
+
+The BuildingBloCS Youtube Channel is where you can find videos of the past events that we have conducted to help you better understanding what we do.
+
+# <a class="btn" href="https://www.youtube.com/channel/UCWQmrxGbwU4jFBCJf7rPoFQ">Check out our Youtube!</a>
 
 
 

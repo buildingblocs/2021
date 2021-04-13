@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## BuildingBloCS 2021
+# BuildingBloCS 2021
 
 Invitation to participate in BuildingBloCS 2021, Singapore’s largest for students by students Computing education outreach programme.
 
@@ -14,7 +14,7 @@ Due to Covid-19, BuildingBloCS 2021 will be held both online and in person from 
 
 We have completed our Fossasia Workshop. Check it out [here]()!
 
-There will be more Workshops to come so stay tuned and check out our [Discord]() after you have signed up!
+<a class="btn" href="{{ site.baseurl }}/pre-event/workshop">Details</a>
 
 <!-- Also, we have made a simple game using Unity in our Unity Workshop! Try it out [here!](https://buildingblocs.github.io/2020/pre-event/unitygame/) -->
 

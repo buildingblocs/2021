@@ -4,7 +4,7 @@ published: true
 ---
 # Partners
 BuildingBloCS 2021 collaborates with various community partners to promote Computing education in Singapore schools.
-Interested to become a partner? Contact [buildingblocs@computing.sg](mailto:buildingblocs@computing.sg)!
+Interested to become a partner? Contact [hello@buildingblocs.sg](mailto:hello@buildingblocs.sg)!
 
 	
 <section class="organisers">
