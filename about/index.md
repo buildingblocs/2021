@@ -25,4 +25,4 @@ Due to the ongoing COVID-19 pandemic, this years BuildingBloCS will comprise of 
 
 We will be posting regular updates through the server and it would be the easiest and quickest way to get the most up-to-date information regarding upcoming BuildingBloCS events and workshops (Discord link will be sent to you upon signing up)
 
-<a class="btn brand" href="https://tinyurl.com/bbcs21-discord ">Sign up now!</a>
+<a class="btn brand" href="{{ site.baseurl }}/join-us/">Sign up now!</a>
