@@ -10,6 +10,17 @@ Looking to enter the world of computing, well BuildingBloCS has organised 7 **mo
 
 We have had our 7 introductory workshops at FOSSASIA Summit 2021! Click the link [here](https://eventyay.com/e/fa96ae2c/schedule?search=lifelong%20learning) to check out our onsite workshop's schedule!
 
+
+
+<br>
+<!-- ## [Sign Up Here! >>](https://eventyay.com/e/fa96ae2c) -->
+
+---
+
+## Completed
+
+### Fossasia 2021 Workshops
+
 <div>
 <details>
   <summary><strong>Introduction to Python</strong></summary>
@@ -68,13 +79,9 @@ MongoDB is a source-available cross-platform document-oriented database program.
 </details>
 </div>
 
-
 <br>
-<!-- ## [Sign Up Here! >>](https://eventyay.com/e/fa96ae2c) -->
 
----
-
-## Completed
+### Other Workshops
 
 <div>
 <details>
