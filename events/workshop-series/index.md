@@ -8,7 +8,7 @@ Looking to enter the world of computing? Well, BuildingBloCS has organised 7 **m
 
 ## Ongoing/Upcoming
 
-We have had our 7 introductory workshops at FOSSASIA Summit 2021! Check them out below!
+There are no ongoing workshops. Check out our discord [here]({{ site.baseurl }}/join-us) for more updates on upcoming workshops!
 
 <br>
 
@@ -17,6 +17,8 @@ We have had our 7 introductory workshops at FOSSASIA Summit 2021! Check them out
 ## Completed
 
 ### Fossasia 2021 Workshops
+
+We have had our 7 introductory workshops at FOSSASIA Summit 2021! Check them out below!
 
 <div>
 <details>
@@ -96,7 +98,7 @@ Python is a widely used, high level programming language, which means that it is
 This workshop teaches the basics of renpy, a visual novel engine that makes use of python and basic computing skills. <br><br> Computational programming will be taught, along with some foundational skills of python to help students be imaginative and more comfortable with coding in a creative way. <br><br> Do try to install the Ren'Py software before the event <br><br> [download here](https://www.renpy.org/latest.html)
 <br><br>
   <strong>Prerequisites:</strong> Working computer and Ren'Py software installed on it
-<br>
+<br><br>
   <a class="btn" href="https://youtu.be/kcnVFFOnAIM">View Video</a>
 <br>
 
