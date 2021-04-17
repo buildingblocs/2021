@@ -19,8 +19,6 @@ CTE-STEM 2021 will be a forum for worldwide sharing of ideas as well as dissemin
 
 Due to the ongoing COVID-19 pandemic, this years BuildingBloCS will comprise of a mixture of online and in-person workshops and activities.
 
-<!-- ## The details for the main event has been confirmed! Head over <a href="{{ site.baseurl }}/events-and-workshops/">here</a> to find out more! -->
-
 ### We have a Discord server!
 
 We will be posting regular updates through the server and it will be the easiest and quickest way to get the most up-to-date information regarding upcoming BuildingBloCS events and workshops (Discord link will be sent to you upon signing up)
