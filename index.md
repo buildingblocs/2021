@@ -25,7 +25,7 @@ published: true
 
 ## Theme: Computational Thinking and AI Education
 
-With the increasing importance of Computing education and AI literacy globally, this year's theme will be on Computational Thinking and Artifical Intelligence Education!
+With the increasing importance of Computing education and AI literacy globally, this year's theme will be on Computational Thinking and Artificial Intelligence Education!
 
 ## Organisers
 
