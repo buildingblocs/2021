@@ -54,7 +54,7 @@ NUS School of Computing provides resources to learn about [data structures and a
 		<img src="{{ site.baseurl }}/assets/img/partner/pyusergrp.png" title="Python User Group Singapore" />
 	</a>
 </section>
-BuildingBloCS collaborates with Python User Group Singapore to conduct [PyCon SG](pycon.sg) Young Coders Workshops for students.
+BuildingBloCS collaborates with Python User Group Singapore to conduct PyCon SG Young Coders Workshops for students.
 
 
 <section class="organisers">
