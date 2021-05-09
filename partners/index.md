@@ -3,7 +3,7 @@ layout: default
 published: true
 ---
 # Partners
-BuildingBloCS 2021 collaborates with various community partners to promote Computing education in Singapore schools.
+BuildingBloCS collaborates with various community partners to promote Computing education in Singapore schools.
 Interested to become a partner? Contact [hello@buildingblocs.sg](mailto:hello@buildingblocs.sg)!
 
 	
@@ -40,7 +40,7 @@ Google Singapore/APAC supports BuildingBloCS 2021. Thank you Google!
 		<img src="{{ site.baseurl }}/assets/img/partner/moe.png" title="MOE" />
 	</a>
 </section>
-MOE CPDD Computing Education Unit supports BuildingBloCS 2021.
+MOE CPDD Computing Education Unit supports BuildingBloCS.
 
 <section class="organisers">
 	<a href="https://www.comp.nus.edu.sg/">
