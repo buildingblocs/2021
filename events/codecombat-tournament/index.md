@@ -5,6 +5,7 @@ layout: default
 # CodeCombat
 
 CodeCombat
+
 Code•com•bat
 
 CodeCombat is an educational video game for learning software programming concepts and languages. Students learn to type coding languages like JavaScript, Python, HTML and CoffeeScript, as well as learning the fundamentals of computer science. CodeCombat has 11 units - three game development units, two web development units, and six computer science units.
