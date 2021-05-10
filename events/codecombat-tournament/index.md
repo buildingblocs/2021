@@ -17,5 +17,5 @@ Links to tutorials and videos:
 
 <p style="color:#DB7C2E;">Sign up for workshops here!</p>
 
-<a class="btn brand horizontal_align" href="https://tinyurl.com/bbcs21-discord">Join our Discord!</a>
+<a class="btn brand horizontal_align" href="{{ site.baseurl }}/join-us">Join our Discord!</a>
 
