@@ -13,9 +13,9 @@ layout: default
 
 Links to tutorials and videos:
 
-<p style="color:#DB72CE;">Interested? Do join us</p>!
+<p style="color:#DB72CE;">Interested? Do join us!</p>
 
-<p style="color:#DB72CE;">Sign up for workshops here!</p>!
+<p style="color:#DB72CE;">Sign up for workshops here!</p>
 
 <a class="btn brand horizontal_align" href="https://tinyurl.com/bbcs21-discord">Join our Discord!</a>
 
