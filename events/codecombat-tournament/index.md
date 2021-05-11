@@ -6,9 +6,11 @@ layout: default
 
 <body style="background-color:#000000">
 
-<p style="color:#6EC4FF;">CodeCombat</p>
+<a style="text-align:center;font-size:39px">
 
-<p style="color:#6EC4FF;">Code•com•bat</p>
+<p style="color:#6EC4FF;">CodeCombat<br>Code•com•bat</p>
+
+</a>
 
 <p style="color:#6EC4FF;">CodeCombat is an educational video game for learning software programming concepts and languages. Students learn to type coding languages like JavaScript, Python, HTML and CoffeeScript, as well as learning the fundamentals of computer science. CodeCombat has 11 units - three game development units, two web development units, and six computer science units.</p>
 
