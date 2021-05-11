@@ -64,3 +64,9 @@ BuildingBloCS collaborates with Python User Group Singapore to conduct PyCon SG 
 </section>
 The Girl Code aims to inspire young girls to learn programming to bridge the gender gap in the technology sector. It collaborates with BuildingBloCS to conduct introductory Python programming workshops for female students.
 
+<section class="organisers">
+	<a href="https://simcc.org">
+		<img src="{{ site.baseurl }}/assets/img/partner/simcc.png" title="Singapore International Mastery Contests Centre" />
+	</a>
+</section>
+Singapore International Mastery Contests Centre is committed to popularizing mathematics education through thinking games and competitions. These will allow students to interact, cooperate and build lasting bonds of friendship that transcend beyond borders.
