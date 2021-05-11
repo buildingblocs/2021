@@ -12,12 +12,10 @@ layout: default
 
 <p style="color:#6EC4FF;">The winners of the tournament will be nominated to participate in the International CodeCombat Competition in late August.</p>
 
-<p style="color:#FFFFFF;">The dates for our workshops can be found on our <a style="color:#FFFFFF;" href="https://go.buildingblocs.sg/signup"> eventyay</a>.</p>
-
 <a style="color:#28DB66;"> Links to tutorials and videos:</a>
 <a style="color:#28DB66;" href="https://www.youtube.com/channel/UCWQmrxGbwU4jFBCJf7rPoFQ">Our Youtube Channel</a>
 
-<p style="color:#DB7C2E;">Held on 1st June, with workshop dates found on our eventay (maybe make the redirect aspect more clearer, perhaps a different colour?) , the tournament would take place in either of the 4 classroom-only arenas: Wakka Maul (CS1), Blazing Battle, Infinite Inferno, Power Peak (CS2)!<br>More details regarding how the tournament will be held will be confirmed soon. Do check back for updates! </p>
+<p style="color:#DB7C2E;">Held on 1st June, with workshop dates found on our <a style="color:#FFFFFF;" href="https://go.buildingblocs.sg/signup"> eventyay</a>, the tournament would take place in either of the 4 classroom-only arenas: Wakka Maul (CS1), Blazing Battle, Infinite Inferno, Power Peak (CS2)!<br>More details regarding how the tournament will be held will be confirmed soon. Do check back for updates! </p>
 
 <p style="color:#DB7C2E;">Interested? Do join us!</p>
 
