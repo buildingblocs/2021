@@ -35,6 +35,9 @@ Python is a widely used, high level programming language, but it is easy to get 
 With the help of Flask, a Python library, participants will be able to learn the basics of Web Development in building basic web-scraping applications. They will be free to explore and discover unique and interesting findings. Participants will learn the basics of HTML, CSS, Python (Flask) in this session and leave with their flask website hosted on CodeCollab.
 <br><br>
   <strong>Prerequisites:</strong> Python Basics
+<br><br>
+  <a class="btn" href="https://youtu.be/PjnR9_qsVwQ">View Video</a>
+<br>
 </details>
 <br><br>
 <details>
@@ -75,6 +78,9 @@ SQLite is the most used database engine in the world, integrated into applicatio
 MongoDB is a source-available, cross-platform, document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas. By the end of the workshop, participants would be able to build a Flask API with MongoDB to query and post data onto a server.
 <br><br>
   <strong>Prerequisites:</strong> Python Basics
+<br><br>
+  <a class="btn" href="https://youtu.be/TEWuFbn8TTA">View Video</a>
+<br>
 </details>
 </div>
 
