@@ -16,7 +16,7 @@ published: true
         </p>
 	<p>
 	    <h3>BuildingBloCS is going international with <a href="https://cte-stem2021.nie.edu.sg/">CTE-STEM 2021</a>!</h3>
-        <h3>Registration for BuildingBloCS 2021 is now open <br>and the <a href="/schedule.html">schedule</a> is out!</h3>
+        <h3>Registration for BuildingBloCS 2021 is now open <br>and the <a href="{{ site.baseurl }}/schedule">schedule</a> is out!</h3>
         <a class="btn brand" href="{{ site.baseurl }}/join-us/">Sign up now!</a>
 	</p>
     <br/>
