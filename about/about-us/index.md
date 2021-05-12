@@ -3,7 +3,7 @@ layout: default
 published: true
 ---
 
-# About
+# About Us
 
 ### What is BuildingBloCS?
 

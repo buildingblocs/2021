@@ -4,11 +4,23 @@ layout: default
 
 # 2021 Workshop Series
 
-Looking to enter the world of computing? BuildingBloCS organises introductory workshops which are guaranteed to be fun and engaging. Scroll down to find out more on upcoming and past events!
+Same with previous years, BuildingBloCS would be conducting a variety of workshops under our Workshop Series Initiative. The Workshop Series Initiative aims to expose students to the different aspects of computing ranging from game development to cybersecurity. This would be done through introductory-level workshops with gentle learning curves, hopefully sparking an interest in the participants to explore more into that field.
 
-## Ongoing/Upcoming
+This year, BuildingBloCS would be conducting a total of 12 workshops! The workshops would run from **29th May to 31st May** with the workshops being grouped into 3 different tracks (one track per day):
 
-There are no ongoing workshops. Check out our Discord [here]({{ site.baseurl }}/join-us) for more updates on upcoming workshops!
+- Programming Languages 101 — 29th May
+- Making Games (& playing them) — 30th May
+- The World of Application Development — 31st May
+
+> <small>_Note: The tickets for the various workshops are structured according to the tracks. For eg, if you wish to participate in the “Playing with Minecraft Plugins” workshop, you would have to sign up for the “Making Games (& playing them)” ticket. Once you have signed up for the ticket, you would have free access to all the workshops on that track. Attendance for all workshops in the same track is not compulsory._</small>
+
+<br>
+
+### Schedule
+
+<a class="btn brand" href="/schedule.html#Programming%20Languages%20101">Programming Languages 101</a>
+<a class="btn brand" href="/schedule.html#Making%20Games%20(&%20Playing%20Them)">Making Games (& Playing Them)</a>
+<a class="btn brand" href="/schedule.html#The%20World%20of%20Application%20Development">The World of Application Development</a>
 
 <br>
 
@@ -113,4 +125,3 @@ This workshop teaches the basics of renpy, a visual novel engine that makes use 
 The BuildingBloCS Youtube Channel is where you can find videos of the past events that we have conducted to help you better understanding what we do.
 
 # <a class="btn" href="https://www.youtube.com/channel/UCWQmrxGbwU4jFBCJf7rPoFQ">Check out our Youtube!</a>
-
