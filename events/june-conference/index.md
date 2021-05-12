@@ -12,6 +12,6 @@ On the first two days of the conference, participants would be engaged in a seri
 
 ### Schedule
 
-<a class="btn brand" href="/schedule.html#June%20Conference%20Day%201">Day 1 Schedule</a>
-<a class="btn brand" href="/schedule.html#June%20Conference%20Day%202">Day 2 Schedule</a>
-<a class="btn brand" href="/schedule.html#June%20Conference%20Day%203">Day 3 Schedule</a>
+<a class="btn brand" href="{{ site.baseurl }}/schedule#June%20Conference%20Day%201">Day 1 Schedule</a>
+<a class="btn brand" href="{{ site.baseurl }}/schedule#June%20Conference%20Day%202">Day 2 Schedule</a>
+<a class="btn brand" href="{{ site.baseurl }}/schedule#June%20Conference%20Day%203">Day 3 Schedule</a>
