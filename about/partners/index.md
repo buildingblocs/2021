@@ -56,11 +56,17 @@ NUS School of Computing provides resources to learn about [data structures and a
 </section>
 BuildingBloCS collaborates with Python User Group Singapore to conduct PyCon SG Young Coders Workshops for students.
 
-
 <section class="organisers">
 	<a href="http://thegirlcode.co">
 		<img src="{{ site.baseurl }}/assets/img/partner/thegirlcode.png" title="TheGirlCode" />
 	</a>
 </section>
 The Girl Code aims to inspire young girls to learn programming to bridge the gender gap in the technology sector. It collaborates with BuildingBloCS to conduct introductory Python programming workshops for female students.
+
+<section class="organisers">
+	<a href="https://simcc.org">
+		<img src="{{ site.baseurl }}/assets/img/partner/simcc.jpeg" title="SIMCC" />
+	</a>
+</section>
+Singapore International Mastery Contests Centre (SIMCC) is one of the largest math contests organizers in Singapore and Asia. SIMCC supports BuildingBloCS by providing CodeCombat licences.
 
