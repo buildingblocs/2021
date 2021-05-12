@@ -18,9 +18,9 @@ This year, BuildingBloCS would be conducting a total of 12 workshops! The worksh
 
 ### Schedule
 
-<a class="btn brand" href="{{ site.baseurl }}/schedule#Programming%20Languages%20101">Programming Languages 101</a>
-<a class="btn brand" href="{{ site.baseurl }}/schedule#Making%20Games%20(&%20Playing%20Them)">Making Games (& Playing Them)</a>
-<a class="btn brand" href="{{ site.baseurl }}/schedule#The%20World%20of%20Application%20Development">The World of Application Development</a>
+<a class="btn brand" href="{{ site.baseurl }}/schedule/#Programming%20Languages%20101">Programming Languages 101</a>
+<a class="btn brand" href="{{ site.baseurl }}/schedule/#Making%20Games%20(&%20Playing%20Them)">Making Games (& Playing Them)</a>
+<a class="btn brand" href="{{ site.baseurl }}/schedule/#The%20World%20of%20Application%20Development">The World of Application Development</a>
 
 <br>
 
