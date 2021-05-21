@@ -17,7 +17,7 @@ CTE-STEM 2021 is a forum for worldwide sharing of ideas as well as dissemination
 
 ### Changes this year
 
-Due to the ongoing COVID-19 pandemic, this years BuildingBloCS will comprise a mixture of online and in-person workshops and activities.
+Due to the ongoing COVID-19 pandemic, this year's BuildingBloCS will comprise a mixture of online and in-person workshops and activities.
 
 ### We have a Discord server!
 
