@@ -17,7 +17,7 @@ layout: default
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ivipHjEro54" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<p style="color:#DB7C2E;">Held on 1st June, with workshop dates found on our <a href="https://go.buildingblocs.sg/signup"> eventyay</a>, the tournament would take place in either of the 4 classroom-only arenas: Wakka Maul (CS1), Blazing Battle, Infinite Inferno, Power Peak (CS2)!<br>More details regarding how the tournament will be held will be confirmed soon. Do check back for updates! </p>
+<p style="color:#DB7C2E;">Held on 1st June, with workshop dates found on our <a href="https://go.buildingblocs.sg/signup"> eventyay</a>, the tournament will take place in either of the 4 classroom-only arenas: Wakka Maul (CS1), Blazing Battle, Infinite Inferno, Power Peak (CS2)!<br>More details regarding how the tournament will be held will be confirmed soon. Do check back for updates! </p>
 
 <p style="color:#DB7C2E;">Interested? Do join us!</p>
 
