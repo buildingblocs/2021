@@ -65,7 +65,7 @@ The Girl Code aims to inspire young girls to learn programming to bridge the gen
 
 <section class="organisers">
 	<a href="https://simcc.org">
-		<img src="{{ site.baseurl }}/assets/img/partner/simcc.jpeg" title="SIMCC" />
+		<img src="{{ site.baseurl }}/assets/img/partner/simcc.png" title="SIMCC" />
 	</a>
 </section>
 Singapore International Mastery Contests Centre (SIMCC) is one of the largest math contests organizers in Singapore and Asia. SIMCC supports BuildingBloCS by providing CodeCombat licences.
