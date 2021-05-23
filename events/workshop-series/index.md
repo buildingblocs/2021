@@ -4,15 +4,15 @@ layout: default
 
 # 2021 Workshop Series
 
-Same with previous years, BuildingBloCS would be conducting a variety of workshops under our Workshop Series Initiative. The Workshop Series Initiative aims to expose students to the different aspects of computing ranging from game development to cybersecurity. This would be done through introductory-level workshops with gentle learning curves, hopefully sparking an interest in the participants to explore more into that field.
+Similar to previous years, BuildingBloCS will be conducting a variety of workshops under our Workshop Series Initiative. The Workshop Series Initiative aims to expose students to the different aspects of computing ranging from game development to cybersecurity. This will be done through introductory-level workshops with gentle learning curves, which will hopefully spark participants' interests in exploring more into the field of computing.
 
-This year, BuildingBloCS would be conducting a total of 12 workshops! The workshops would run from **29th May to 31st May** with the workshops being grouped into 3 different tracks (one track per day):
+This year, BuildingBloCS will be conducting a total of 12 workshops! The workshops will run from **29th May to 31st May** with the workshops being grouped into 3 different tracks (one track per day):
 
 - Programming Languages 101 — 29th May
 - Making Games (& playing them) — 30th May
 - The World of Application Development — 31st May
 
-> <small>_Note: The tickets for the various workshops are structured according to the tracks. For eg, if you wish to participate in the “Playing with Minecraft Plugins” workshop, you would have to sign up for the “Making Games (& playing them)” ticket. Once you have signed up for the ticket, you would have free access to all the workshops on that track. Attendance for all workshops in the same track is not compulsory._</small>
+> <small>_Note: The tickets for the various workshops are structured according to the tracks. For example, if you wish to participate in the “Playing with Minecraft Plugins” workshop, you have to sign up for the “Making Games (& playing them)” ticket. Once you have signed up for the ticket, you will have free access to all the workshops on that track. Attendance for all workshops in the same track is not compulsory._</small>
 
 <br>
 
@@ -122,6 +122,6 @@ This workshop teaches the basics of renpy, a visual novel engine that makes use 
 
 ## BuildingBloCS Youtube
 
-The BuildingBloCS Youtube Channel is where you can find videos of the past events that we have conducted to help you better understanding what we do.
+The BuildingBloCS Youtube Channel is where you can find videos of the past events that we have conducted to help you better understand what we do.
 
 # <a class="btn" href="https://www.youtube.com/channel/UCWQmrxGbwU4jFBCJf7rPoFQ">Check out our Youtube!</a>
