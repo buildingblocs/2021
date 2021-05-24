@@ -70,3 +70,9 @@ The Girl Code aims to inspire young girls to learn programming to bridge the gen
 </section>
 Singapore International Mastery Contests Centre (SIMCC) is one of the largest math contests organizers in Singapore and Asia. SIMCC supports BuildingBloCS by providing CodeCombat licences.
 
+<section class="organisers">
+	<a href="https://www.cyberyouth.sg/">
+		<img src="{{ site.baseurl }}/assets/img/partner/cys.png" title="Cyber Youth Singapore" />
+	</a>
+</section>
+Cyber Youth Singapore is a nonprofit youth organisation run entirely by youth. Cyber Youth Singapore aims to empower youth in Singapore with a platform to safely and responsibly explore their interest in technology alongside their peers.
