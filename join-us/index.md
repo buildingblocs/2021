@@ -13,3 +13,5 @@ All students interested in Computing are welcome to participate in the 7 days of
 <br>
 
 <a class="btn brand horizontal_align" href="https://go.buildingblocs.sg/signup">Sign up now!</a>
+<br>
+<a class="btn brand horizontal_align" href="{{ site.baseurl }}/schedule">View our schedule here!</a>

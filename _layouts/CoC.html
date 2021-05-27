@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="preload" as="script" href="{{ site.baseurl }}/assets/schedule/js/jquery.min.js">
+    <link rel="preload" as="script" href="{{ site.baseurl }}/assets/schedule/js/bootstrap.min.js">
+    <link rel="preload" as="script" href="{{ site.baseurl }}/assets/schedule/js/event.min.js">
+    <link rel="preload" as="style" href="{{ site.baseurl }}/assets/schedule/css/schedule.css">
+    <link rel="preload" as="style" href="{{ site.baseurl }}/assets/schedule/css/font-awesome.min.css">
+    <link rel="preload" as="style" href="{{ site.baseurl }}/assets/schedule/css/bootstrap.min.css">
+    <link rel="manifest" href="{{ site.baseurl }}/assets/schedule/json/manifest.json">
+    <link rel="preload" as="font" href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,300" crossorigin>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="theme-color" content="#317EFB">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="BuildingBloCS 2021 Schedule">
+    <meta name="author" content="">
+    <title>BuildingBloCS 2021</title><!-- Bootstrap core CSS -->
+    <!-- Latest compiled and minified CSS -->
+    <link rel="shortcut icon" href="" type="image/x-icon">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,300" rel="stylesheet">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/schedule/css/font-awesome.min.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/schedule/css/bootstrap.min.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/schedule/css/schedule.css">
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+
+<body>
+    <!-- Fixed navbar -->
+    <header role="banner" class="navbar-fixed-top navbar-default js-navbar">
+        <div class="container">
+            <div class="navbar-header navbar-left pull-left"><a class="navbar-brand" style="padding:px"
+                    href="{{ site.baseurl }}/.."><img alt="BuildingBloCS 2021" class="logo logo-dark"
+                        src="{{ site.baseurl }}/assets/schedule/images/86b913e7-5555-4e9b-a120-8a189e324079.png"></a>
+            </div>
+            <div class="navbar-header navbar-right pull-right"><span class="pull-right dropdown"><button
+                        class="navbar-toggle" type="button" data-toggle="dropdown"><i class="fa fa-lg fa-paper-plane"
+                            aria-hidden="true"></i> <span class="caret"></span></button>
+                    <ul class="dropdown-menu list-menu">
+                        <li><a href="https://instagram.com/buildingblocs21/" id="social-icons"><i
+                                    class="fa fa-lg fa-instagram" aria-hidden="true" title="instagram"></i></a></li>
+                        <li><a href="https://github.com/buildingblocs" id="social-icons"><i class="fa fa-lg fa-github"
+                                    aria-hidden="true" title="github"></i></a></li>
+                        <li><a href="https://youtube.com/channel/UCWQmrxGbwU4jFBCJf7rPoFQ" id="social-icons"><i
+                                    class="fa fa-lg fa-youtube-play" aria-hidden="true" title="youtube-play"></i></a>
+                        </li>
+                    </ul>
+                </span><button class="navbar-toggle pull-right"><a id="speakerslink"
+                        href="{{ site.baseurl }}/speakers">Speakers</a></button> <span
+                    class="pull-right dropdown"><button class="navbar-toggle" type="button"
+                        data-toggle="dropdown">Schedule <span class="caret"></span></button>
+                    <ul class="dropdown-menu list-menu">
+                        <li><a id="schedulelink" href="{{ site.baseurl }}/schedule/"><i class="fa fa-lg fa-calendar"
+                                    aria-hidden="true"></i> Schedule</a></li>
+                        <li><a id="trackslink" href="{{ site.baseurl }}/schedule/tracks"><i
+                                    class="fa fa-lg fa-map-signs" aria-hidden="true"></i> Tracks</a></li>
+                        <li><a id="roomslink" href="{{ site.baseurl }}/schedule/rooms"><i class="fa fa-lg fa-building"
+                                    aria-hidden="true"></i>
+                                Rooms</a></li>
+                    </ul>
+                </span><a id="homelink" href="{{ site.baseurl }}/.."><button
+                        class="navbar-toggle pull-right homelink"><i class="fa fa-lg fa-home"
+                            aria-hidden="true"></i></button></a></div>
+            <div class="hidden-lg hidden-md hidden-sm clearfix"></div>
+            <div class="side-collapse in">
+                <nav role="navigation" class="navbar-collapse">
+                    <div class="search-container"><input id="search-box" type="text" class="search-box fossasia-filter">
+                        <label for="search-box"><span class="search-icon"><i class="fa fa-search"
+                                    aria-hidden="true"></i></span></label></div>
+                    <ul class="nav navbar-nav navbar-right">
+                        <li class="navlink"><a id="homelink" href="{{ site.baseurl }}/..">Home</a></li>
+                        <li class="navlink"><a id="schedulelink" href="{{ site.baseurl }}/schedule">Schedule</a></li>
+                        <li class="navlink"><a id="trackslink" href="{{ site.baseurl }}/schedule/tracks">Tracks</a></li>
+                        <li class="navlink"><a id="roomslink" href="{{ site.baseurl }}/schedule/rooms">Rooms</a></li>
+                        <li class="navlink"><a id="speakerslink" href="{{ site.baseurl }}/speakers">Speakers</a></li>
+                        <li class="pull-left social-icons"><a href="https://instagram.com/buildingblocs21/"
+                                id="social-icons"><i class="fa fa-lg fa-instagram" aria-hidden="true"
+                                    title="instagram"></i></a></li>
+                        <li class="pull-left social-icons"><a href="https://github.com/buildingblocs"
+                                id="social-icons"><i class="fa fa-lg fa-github" aria-hidden="true"
+                                    title="github"></i></a></li>
+                        <li class="pull-left social-icons"><a
+                                href="https://youtube.com/channel/UCWQmrxGbwU4jFBCJf7rPoFQ" id="social-icons"><i
+                                    class="fa fa-lg fa-youtube-play" aria-hidden="true" title="youtube-play"></i></a>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
+    <div class="main-coc-container container">
+        <div class="row">
+            <div class="middle col-sm-12">
+                <h2 class="filter-heading track-heading text-center"><span>Code of Conduct</span></h2>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-12 col-md-12">
+                <div class="coc">BuildlingBloCS is a yearlong outreach programme for students, by students! Activities
+                    and workshops will be conducted by JC Computing students, guided by their teachers, to educate
+                    people around the nation about the wonders of Computing, and spread its love. <br><br>BuildingBloCS
+                    will not use any personal information collected for unintended purposes, other than for verification
+                    and contact attendees to update them about the event.</div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-container">
+        <footer class="classic">
+            <div class="container">
+                <div class="row ui-sortable">
+                    <div id="menuItem" class="col-sm-2 col-md-2 col-xs-12">
+                        <ul class="menu">
+                            <li><a target="_self" href="{{ site.baseurl }}/about/about-us">About</a></li>
+                            <li><a target="_self" href="{{ site.baseurl }}/schedule">Schedule</a></li>
+                            <li><a target="_self" href="{{ site.baseurl }}/schedule/tracks">Tracks</a></li>
+                            <li><a target="_self" href="{{ site.baseurl }}/schedule/rooms">Rooms</a></li>
+                            <li><a target="_self" href="{{ site.baseurl }}/speakers">Speakers</a></li>
+                            <li><a target="_self" href="{{ site.baseurl }}/schedule/CoC">Code of Conduct</a></li>
+                            <li><a class="inner-link back-to-top" href="#top">Back To Top</a></li>
+                        </ul>
+                    </div>
+                    <div id="copyright" class="col-sm-7 col-md-7 col-xs-12"></div>
+                    <div class="contact-details col-sm-3 col-md-3 col-xs-12">
+                        <ul class="contact-methods"></ul>
+                    </div>
+                </div>
+                <div class="row ui-sortable">
+                    <div class="col-sm-10 text-center">
+                        <ul class="social-profiles">
+                            <li class="pull-left social-icons"><a href="https://instagram.com/buildingblocs21/"
+                                    id="social-icons"><i class="fa fa-lg fa-instagram" aria-hidden="true"
+                                        title="instagram"></i></a></li>
+                            <li class="pull-left social-icons"><a href="https://github.com/buildingblocs"
+                                    id="social-icons"><i class="fa fa-lg fa-github" aria-hidden="true"
+                                        title="github"></i></a></li>
+                            <li class="pull-left social-icons"><a
+                                    href="https://youtube.com/channel/UCWQmrxGbwU4jFBCJf7rPoFQ" id="social-icons"><i
+                                        class="fa fa-lg fa-youtube-play" aria-hidden="true"
+                                        title="youtube-play"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+    <script src="{{ site.baseurl }}/assets/schedule/js/jquery.min.js"></script>
+    <script src="{{ site.baseurl }}/assets/schedule/js/bootstrap.min.js"></script>
+    <script src="{{ site.baseurl }}/assets/schedule/js/event.min.js"></script>
+</body>
+
+</html>
