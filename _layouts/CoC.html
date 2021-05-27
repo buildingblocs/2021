@@ -35,9 +35,10 @@
     <!-- Fixed navbar -->
     <header role="banner" class="navbar-fixed-top navbar-default js-navbar">
         <div class="container">
-            <div class="navbar-header navbar-left pull-left"><a class="navbar-brand" style="padding:px" href="{{ site.baseurl }}"><img
-                        alt="BuildingBloCS 2021" class="logo logo-dark"
-                        src="images/86b913e7-5555-4e9b-a120-8a189e324079.png"></a></div>
+            <div class="navbar-header navbar-left pull-left"><a class="navbar-brand" style="padding:px"
+                    href="{{ site.baseurl }}/.."><img alt="BuildingBloCS 2021" class="logo logo-dark"
+                        src="{{ site.baseurl }}/assets/schedule/images/86b913e7-5555-4e9b-a120-8a189e324079.png"></a>
+            </div>
             <div class="navbar-header navbar-right pull-right"><span class="pull-right dropdown"><button
                         class="navbar-toggle" type="button" data-toggle="dropdown"><i class="fa fa-lg fa-paper-plane"
                             aria-hidden="true"></i> <span class="caret"></span></button>
@@ -51,19 +52,21 @@
                         </li>
                     </ul>
                 </span><button class="navbar-toggle pull-right"><a id="speakerslink"
-                        href="{{ site.baseurl }}/speakers">Speakers</a></button> <span class="pull-right dropdown"><button
-                        class="navbar-toggle" type="button" data-toggle="dropdown">Schedule <span
-                            class="caret"></span></button>
+                        href="{{ site.baseurl }}/speakers">Speakers</a></button> <span
+                    class="pull-right dropdown"><button class="navbar-toggle" type="button"
+                        data-toggle="dropdown">Schedule <span class="caret"></span></button>
                     <ul class="dropdown-menu list-menu">
                         <li><a id="schedulelink" href="{{ site.baseurl }}/schedule/"><i class="fa fa-lg fa-calendar"
                                     aria-hidden="true"></i> Schedule</a></li>
-                        <li><a id="trackslink" href="{{ site.baseurl }}/schedule/tracks"><i class="fa fa-lg fa-map-signs"
-                                    aria-hidden="true"></i> Tracks</a></li>
-                        <li><a id="roomslink" href="{{ site.baseurl }}/schedule/rooms"><i class="fa fa-lg fa-building" aria-hidden="true"></i>
+                        <li><a id="trackslink" href="{{ site.baseurl }}/schedule/tracks"><i
+                                    class="fa fa-lg fa-map-signs" aria-hidden="true"></i> Tracks</a></li>
+                        <li><a id="roomslink" href="{{ site.baseurl }}/schedule/rooms"><i class="fa fa-lg fa-building"
+                                    aria-hidden="true"></i>
                                 Rooms</a></li>
                     </ul>
-                </span><a id="homelink" href="{{ site.baseurl }}"><button class="navbar-toggle pull-right homelink"><i
-                            class="fa fa-lg fa-home" aria-hidden="true"></i></button></a></div>
+                </span><a id="homelink" href="{{ site.baseurl }}/.."><button
+                        class="navbar-toggle pull-right homelink"><i class="fa fa-lg fa-home"
+                            aria-hidden="true"></i></button></a></div>
             <div class="hidden-lg hidden-md hidden-sm clearfix"></div>
             <div class="side-collapse in">
                 <nav role="navigation" class="navbar-collapse">
@@ -71,7 +74,7 @@
                         <label for="search-box"><span class="search-icon"><i class="fa fa-search"
                                     aria-hidden="true"></i></span></label></div>
                     <ul class="nav navbar-nav navbar-right">
-                        <li class="navlink"><a id="homelink" href="{{ site.baseurl }}">Home</a></li>
+                        <li class="navlink"><a id="homelink" href="{{ site.baseurl }}/..">Home</a></li>
                         <li class="navlink"><a id="schedulelink" href="{{ site.baseurl }}/schedule">Schedule</a></li>
                         <li class="navlink"><a id="trackslink" href="{{ site.baseurl }}/schedule/tracks">Tracks</a></li>
                         <li class="navlink"><a id="roomslink" href="{{ site.baseurl }}/schedule/rooms">Rooms</a></li>

@@ -54,9 +54,9 @@
   <!-- Fixed navbar -->
   <header role="banner" class="navbar-fixed-top navbar-default js-navbar">
     <div class="container">
-      <div class="navbar-header navbar-left pull-left"><a class="navbar-brand" style="padding:px" href="."><img
-            alt="BuildingBloCS 2021" class="logo logo-dark" src="images/86b913e7-5555-4e9b-a120-8a189e324079.png"></a>
-      </div>
+      <div class="navbar-header navbar-left pull-left"><a class="navbar-brand" style="padding:px"
+          href="{{ site.baseurl }}/.."><img alt="BuildingBloCS 2021" class="logo logo-dark"
+            src="{{ site.baseurl }}/assets/schedule/images/86b913e7-5555-4e9b-a120-8a189e324079.png"></a></div>
       <div class="navbar-header navbar-right pull-right"><span class="pull-right dropdown"><button class="navbar-toggle"
             type="button" data-toggle="dropdown"><i class="fa fa-lg fa-paper-plane" aria-hidden="true"></i> <span
               class="caret"></span></button>
@@ -66,33 +66,35 @@
             <li><a href="https://github.com/buildingblocs" id="social-icons"><i class="fa fa-lg fa-github"
                   aria-hidden="true" title="github"></i></a></li>
             <li><a href="https://youtube.com/channel/UCWQmrxGbwU4jFBCJf7rPoFQ" id="social-icons"><i
-                  class="fa fa-lg fa-youtube-play" aria-hidden="true" title="youtube-play"></i></a></li>
-          </ul>
-        </span><button class="navbar-toggle pull-right"><a id="speakerslink" href="speakers.html">Speakers</a></button>
-        <span class="pull-right dropdown"><button class="navbar-toggle" type="button" data-toggle="dropdown">Schedule
-            <span class="caret"></span></button>
-          <ul class="dropdown-menu list-menu">
-            <li><a id="schedulelink" href="schedule.html"><i class="fa fa-lg fa-calendar" aria-hidden="true"></i>
-                Schedule</a></li>
-            <li><a id="trackslink" href="tracks.html"><i class="fa fa-lg fa-map-signs" aria-hidden="true"></i>
-                Tracks</a></li>
-            <li><a id="roomslink" href="rooms.html"><i class="fa fa-lg fa-building" aria-hidden="true"></i> Rooms</a>
+                  class="fa fa-lg fa-youtube-play" aria-hidden="true" title="youtube-play"></i></a>
             </li>
           </ul>
-        </span><a id="homelink" href="index.html"><button class="navbar-toggle pull-right homelink"><i
+        </span><button class="navbar-toggle pull-right"><a id="speakerslink"
+            href="{{ site.baseurl }}/speakers">Speakers</a></button> <span class="pull-right dropdown"><button
+            class="navbar-toggle" type="button" data-toggle="dropdown">Schedule <span class="caret"></span></button>
+          <ul class="dropdown-menu list-menu">
+            <li><a id="schedulelink" href="{{ site.baseurl }}/schedule/"><i class="fa fa-lg fa-calendar"
+                  aria-hidden="true"></i> Schedule</a></li>
+            <li><a id="trackslink" href="{{ site.baseurl }}/schedule/tracks"><i class="fa fa-lg fa-map-signs"
+                  aria-hidden="true"></i> Tracks</a></li>
+            <li><a id="roomslink" href="{{ site.baseurl }}/schedule/rooms"><i class="fa fa-lg fa-building"
+                  aria-hidden="true"></i>
+                Rooms</a></li>
+          </ul>
+        </span><a id="homelink" href="{{ site.baseurl }}/.."><button class="navbar-toggle pull-right homelink"><i
               class="fa fa-lg fa-home" aria-hidden="true"></i></button></a></div>
       <div class="hidden-lg hidden-md hidden-sm clearfix"></div>
       <div class="side-collapse in">
         <nav role="navigation" class="navbar-collapse">
-          <div class="search-container"><input id="search-box" type="text" class="search-box fossasia-filter"> <label
-              for="search-box"><span class="search-icon"><i class="fa fa-search" aria-hidden="true"></i></span></label>
-          </div>
+          <div class="search-container"><input id="search-box" type="text" class="search-box fossasia-filter">
+            <label for="search-box"><span class="search-icon"><i class="fa fa-search"
+                  aria-hidden="true"></i></span></label></div>
           <ul class="nav navbar-nav navbar-right">
-            <li class="navlink"><a id="homelink" href="index.html">Home</a></li>
-            <li class="navlink"><a id="schedulelink" href="schedule.html">Schedule</a></li>
-            <li class="navlink"><a id="trackslink" href="tracks.html">Tracks</a></li>
-            <li class="navlink"><a id="roomslink" href="rooms.html">Rooms</a></li>
-            <li class="navlink"><a id="speakerslink" href="speakers.html">Speakers</a></li>
+            <li class="navlink"><a id="homelink" href="{{ site.baseurl }}/..">Home</a></li>
+            <li class="navlink"><a id="schedulelink" href="{{ site.baseurl }}/schedule">Schedule</a></li>
+            <li class="navlink"><a id="trackslink" href="{{ site.baseurl }}/schedule/tracks">Tracks</a></li>
+            <li class="navlink"><a id="roomslink" href="{{ site.baseurl }}/schedule/rooms">Rooms</a></li>
+            <li class="navlink"><a id="speakerslink" href="{{ site.baseurl }}/speakers">Speakers</a></li>
             <li class="pull-left social-icons"><a href="https://instagram.com/buildingblocs21/" id="social-icons"><i
                   class="fa fa-lg fa-instagram" aria-hidden="true" title="instagram"></i></a></li>
             <li class="pull-left social-icons"><a href="https://github.com/buildingblocs" id="social-icons"><i
@@ -125,8 +127,8 @@
         <div class="speaker">
           <div class="image-holder"><a class="anchor" id="andrhea-angelina-therese-gaerlan-san-gabriel5499"></a> <img
               onerror='this.onerror=null,this.src="images/avatar.png"'
-              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/4fddeac8-1358-4da3-ae46-0008ebbba6a1.jpg" class="lazy background-image"
-              alt="Andrhea Angelina Therese Gaerlan San Gabriel">
+              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/4fddeac8-1358-4da3-ae46-0008ebbba6a1.jpg"
+              class="lazy background-image" alt="Andrhea Angelina Therese Gaerlan San Gabriel">
             <div class="responsive-overlay">
               <div class="text-center preserve3d">
                 <div class="bio vertical-align"></div>
@@ -192,8 +194,8 @@
         <div class="speaker">
           <div class="image-holder"><a class="anchor" id="bhatnagar-ishita5541"></a> <img
               onerror='this.onerror=null,this.src="images/avatar.png"'
-              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/d334b25b-f208-49a6-be6e-b2ac9b7831a0.jpg" class="lazy background-image"
-              alt="Bhatnagar Ishita">
+              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/d334b25b-f208-49a6-be6e-b2ac9b7831a0.jpg"
+              class="lazy background-image" alt="Bhatnagar Ishita">
             <div class="responsive-overlay">
               <div class="text-center preserve3d">
                 <div class="bio vertical-align"></div>
@@ -253,8 +255,8 @@
         <div class="speaker">
           <div class="image-holder"><a class="anchor" id="brandon-jay-han-bok5578"></a> <img
               onerror='this.onerror=null,this.src="images/avatar.png"'
-              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/8c63d9a5-6d20-4c42-850c-69dd441a8196.jpg" class="lazy background-image"
-              alt="Brandon Jay-han Bok">
+              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/8c63d9a5-6d20-4c42-850c-69dd441a8196.jpg"
+              class="lazy background-image" alt="Brandon Jay-han Bok">
             <div class="responsive-overlay">
               <div class="text-center preserve3d">
                 <div class="bio vertical-align"></div>
@@ -314,8 +316,8 @@
         <div class="speaker">
           <div class="image-holder"><a class="anchor" id="celine-natalie-wongso-lesmono5490"></a> <img
               onerror='this.onerror=null,this.src="images/avatar.png"'
-              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/b7ee69f5-b584-400a-adff-fd481e7c851a.jpg" class="lazy background-image"
-              alt="Celine Natalie Wongso Lesmono">
+              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/b7ee69f5-b584-400a-adff-fd481e7c851a.jpg"
+              class="lazy background-image" alt="Celine Natalie Wongso Lesmono">
             <div class="responsive-overlay">
               <div class="text-center preserve3d">
                 <div class="bio vertical-align"></div>
@@ -381,8 +383,8 @@
         <div class="speaker">
           <div class="image-holder"><a class="anchor" id="chan-si-jie5489"></a> <img
               onerror='this.onerror=null,this.src="images/avatar.png"'
-              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/402b6a81-eaa0-4726-ae2f-aa3bf6617bdb.jpg" class="lazy background-image"
-              alt="Chan Si Jie">
+              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/402b6a81-eaa0-4726-ae2f-aa3bf6617bdb.jpg"
+              class="lazy background-image" alt="Chan Si Jie">
             <div class="responsive-overlay">
               <div class="text-center preserve3d">
                 <div class="bio vertical-align"></div>
@@ -441,8 +443,8 @@
         <div class="speaker">
           <div class="image-holder"><a class="anchor" id="chen-le-qi5513"></a> <img
               onerror='this.onerror=null,this.src="images/avatar.png"'
-              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/40242df2-e793-457d-90bb-3c5ba80c88c1.jpg" class="lazy background-image"
-              alt="Chen Le Qi">
+              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/40242df2-e793-457d-90bb-3c5ba80c88c1.jpg"
+              class="lazy background-image" alt="Chen Le Qi">
             <div class="responsive-overlay">
               <div class="text-center preserve3d">
                 <div class="bio vertical-align"></div>
@@ -502,8 +504,8 @@
         <div class="speaker">
           <div class="image-holder"><a class="anchor" id="chen-qirui5505"></a> <img
               onerror='this.onerror=null,this.src="images/avatar.png"'
-              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/f4e6386d-8aa8-4db9-9383-83b265471b73.jpg" class="lazy background-image"
-              alt="Chen Qirui">
+              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/f4e6386d-8aa8-4db9-9383-83b265471b73.jpg"
+              class="lazy background-image" alt="Chen Qirui">
             <div class="responsive-overlay">
               <div class="text-center preserve3d">
                 <div class="bio vertical-align"></div>
@@ -561,8 +563,8 @@
         <div class="speaker">
           <div class="image-holder"><a class="anchor" id="chiam-kai-jun5579"></a> <img
               onerror='this.onerror=null,this.src="images/avatar.png"'
-              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/94b27585-1fa0-46e1-81a2-251d910e0be1.jpg" class="lazy background-image"
-              alt="Chiam Kai Jun">
+              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/94b27585-1fa0-46e1-81a2-251d910e0be1.jpg"
+              class="lazy background-image" alt="Chiam Kai Jun">
             <div class="responsive-overlay">
               <div class="text-center preserve3d">
                 <div class="bio vertical-align"></div>
@@ -621,8 +623,8 @@
         <div class="speaker">
           <div class="image-holder"><a class="anchor" id="eda-yeo5501"></a> <img
               onerror='this.onerror=null,this.src="images/avatar.png"'
-              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/68d5fe43-4829-4805-abc9-daad858d74da.jpg" class="lazy background-image"
-              alt="Eda Yeo">
+              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/68d5fe43-4829-4805-abc9-daad858d74da.jpg"
+              class="lazy background-image" alt="Eda Yeo">
             <div class="responsive-overlay">
               <div class="text-center preserve3d">
                 <div class="bio vertical-align"></div>
@@ -680,8 +682,8 @@
         <div class="speaker">
           <div class="image-holder"><a class="anchor" id="hon-wen-hong5506"></a> <img
               onerror='this.onerror=null,this.src="images/avatar.png"'
-              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/4dbdea4d-72c1-450c-a738-9e3687787080.jpg" class="lazy background-image"
-              alt="Hon Wen Hong">
+              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/4dbdea4d-72c1-450c-a738-9e3687787080.jpg"
+              class="lazy background-image" alt="Hon Wen Hong">
             <div class="responsive-overlay">
               <div class="text-center preserve3d">
                 <div class="bio vertical-align"></div>
@@ -740,8 +742,8 @@
         <div class="speaker">
           <div class="image-holder"><a class="anchor" id="huang-qiu-di5495"></a> <img
               onerror='this.onerror=null,this.src="images/avatar.png"'
-              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/c759268f-80e7-4613-a66c-493d9e7aac29.jpg" class="lazy background-image"
-              alt="Huang Qiu Di">
+              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/c759268f-80e7-4613-a66c-493d9e7aac29.jpg"
+              class="lazy background-image" alt="Huang Qiu Di">
             <div class="responsive-overlay">
               <div class="text-center preserve3d">
                 <div class="bio vertical-align"></div>
@@ -806,8 +808,8 @@
         <div class="speaker">
           <div class="image-holder"><a class="anchor" id="issac-chen-jing-de5493"></a> <img
               onerror='this.onerror=null,this.src="images/avatar.png"'
-              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/0013b836-cbd5-4282-b6e3-cbdb3b101283.jpg" class="lazy background-image"
-              alt="Issac Chen Jing De">
+              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/0013b836-cbd5-4282-b6e3-cbdb3b101283.jpg"
+              class="lazy background-image" alt="Issac Chen Jing De">
             <div class="responsive-overlay">
               <div class="text-center preserve3d">
                 <div class="bio vertical-align"></div>
@@ -884,8 +886,8 @@
         <div class="speaker">
           <div class="image-holder"><a class="anchor" id="jaden-chew-jingzhi5580"></a> <img
               onerror='this.onerror=null,this.src="images/avatar.png"'
-              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/0576cf2b-7596-4af2-8ecb-6df8f2a84222.jpg" class="lazy background-image"
-              alt="Jaden Chew Jingzhi">
+              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/0576cf2b-7596-4af2-8ecb-6df8f2a84222.jpg"
+              class="lazy background-image" alt="Jaden Chew Jingzhi">
             <div class="responsive-overlay">
               <div class="text-center preserve3d">
                 <div class="bio vertical-align"></div>
@@ -943,8 +945,8 @@
         <div class="speaker">
           <div class="image-holder"><a class="anchor" id="james-li5511"></a> <img
               onerror='this.onerror=null,this.src="images/avatar.png"'
-              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/36c9225f-f6e9-4c65-a0cc-35807bdcc042.jpg" class="lazy background-image"
-              alt="James Li">
+              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/36c9225f-f6e9-4c65-a0cc-35807bdcc042.jpg"
+              class="lazy background-image" alt="James Li">
             <div class="responsive-overlay">
               <div class="text-center preserve3d">
                 <div class="bio vertical-align"></div>
@@ -1003,8 +1005,8 @@
         <div class="speaker">
           <div class="image-holder"><a class="anchor" id="jessica-chan5544"></a> <img
               onerror='this.onerror=null,this.src="images/avatar.png"'
-              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/9312754c-7558-4b38-b48b-cd90921673ad.jpg" class="lazy background-image"
-              alt="Jessica Chan">
+              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/9312754c-7558-4b38-b48b-cd90921673ad.jpg"
+              class="lazy background-image" alt="Jessica Chan">
             <div class="responsive-overlay">
               <div class="text-center preserve3d">
                 <div class="bio vertical-align"></div>
@@ -1062,8 +1064,8 @@
         <div class="speaker">
           <div class="image-holder"><a class="anchor" id="kee-jun-xi-ansel5498"></a> <img
               onerror='this.onerror=null,this.src="images/avatar.png"'
-              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/1cf73339-0d13-4593-a487-174dc7977824.jpg" class="lazy background-image"
-              alt="Kee Jun Xi, Ansel">
+              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/1cf73339-0d13-4593-a487-174dc7977824.jpg"
+              class="lazy background-image" alt="Kee Jun Xi, Ansel">
             <div class="responsive-overlay">
               <div class="text-center preserve3d">
                 <div class="bio vertical-align"></div>
@@ -1129,8 +1131,8 @@
         <div class="speaker">
           <div class="image-holder"><a class="anchor" id="kingold-wang-xinfeng5496"></a> <img
               onerror='this.onerror=null,this.src="images/avatar.png"'
-              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/91897999-247a-4bd4-b021-11a5a75cef1c.jpg" class="lazy background-image"
-              alt="Kingold Wang Xinfeng">
+              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/91897999-247a-4bd4-b021-11a5a75cef1c.jpg"
+              class="lazy background-image" alt="Kingold Wang Xinfeng">
             <div class="responsive-overlay">
               <div class="text-center preserve3d">
                 <div class="bio vertical-align"></div>
@@ -1195,8 +1197,8 @@
         <div class="speaker">
           <div class="image-holder"><a class="anchor" id="lam-yik-ting5542"></a> <img
               onerror='this.onerror=null,this.src="images/avatar.png"'
-              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/15b0dd53-f70c-4a8f-884a-d439a9607da2.jpg" class="lazy background-image"
-              alt="Lam Yik Ting">
+              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/15b0dd53-f70c-4a8f-884a-d439a9607da2.jpg"
+              class="lazy background-image" alt="Lam Yik Ting">
             <div class="responsive-overlay">
               <div class="text-center preserve3d">
                 <div class="bio vertical-align"></div>
@@ -1262,8 +1264,8 @@
         <div class="speaker">
           <div class="image-holder"><a class="anchor" id="liang-yusen5500"></a> <img
               onerror='this.onerror=null,this.src="images/avatar.png"'
-              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/0eb32669-5320-4314-921d-6d9efd17c0c8.jpg" class="lazy background-image"
-              alt="Liang Yusen">
+              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/0eb32669-5320-4314-921d-6d9efd17c0c8.jpg"
+              class="lazy background-image" alt="Liang Yusen">
             <div class="responsive-overlay">
               <div class="text-center preserve3d">
                 <div class="bio vertical-align"></div>
@@ -1329,8 +1331,8 @@
         <div class="speaker">
           <div class="image-holder"><a class="anchor" id="liew-zheng-yuan5502"></a> <img
               onerror='this.onerror=null,this.src="images/avatar.png"'
-              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/4f70c168-7ea7-476b-b3c1-81d2b6e46637.jpg" class="lazy background-image"
-              alt="Liew Zheng Yuan">
+              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/4f70c168-7ea7-476b-b3c1-81d2b6e46637.jpg"
+              class="lazy background-image" alt="Liew Zheng Yuan">
             <div class="responsive-overlay">
               <div class="text-center preserve3d">
                 <div class="bio vertical-align"></div>
@@ -1389,8 +1391,8 @@
         <div class="speaker">
           <div class="image-holder"><a class="anchor" id="lin-junyu5577"></a> <img
               onerror='this.onerror=null,this.src="images/avatar.png"'
-              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/c8445f42-dcae-4668-8301-b1f19d13a499.jpg" class="lazy background-image"
-              alt="Lin Junyu">
+              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/c8445f42-dcae-4668-8301-b1f19d13a499.jpg"
+              class="lazy background-image" alt="Lin Junyu">
             <div class="responsive-overlay">
               <div class="text-center preserve3d">
                 <div class="bio vertical-align"></div>
@@ -1449,8 +1451,8 @@
         <div class="speaker">
           <div class="image-holder"><a class="anchor" id="liu-hongshuo5492"></a> <img
               onerror='this.onerror=null,this.src="images/avatar.png"'
-              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/3960cb3e-7f3d-4d7f-a4c3-2752f24a7006.jpg" class="lazy background-image"
-              alt="Liu Hongshuo">
+              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/3960cb3e-7f3d-4d7f-a4c3-2752f24a7006.jpg"
+              class="lazy background-image" alt="Liu Hongshuo">
             <div class="responsive-overlay">
               <div class="text-center preserve3d">
                 <div class="bio vertical-align"></div>
@@ -1510,8 +1512,8 @@
         <div class="speaker">
           <div class="image-holder"><a class="anchor" id="mok-jia-yu5494"></a> <img
               onerror='this.onerror=null,this.src="images/avatar.png"'
-              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/5e9085e5-6718-499a-9589-6299793155a9.jpg" class="lazy background-image"
-              alt="Mok Jia Yu">
+              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/5e9085e5-6718-499a-9589-6299793155a9.jpg"
+              class="lazy background-image" alt="Mok Jia Yu">
             <div class="responsive-overlay">
               <div class="text-center preserve3d">
                 <div class="bio vertical-align"></div>
@@ -1576,8 +1578,8 @@
         <div class="speaker">
           <div class="image-holder"><a class="anchor" id="ng-kin-meng5497"></a> <img
               onerror='this.onerror=null,this.src="images/avatar.png"'
-              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/04b5493d-056d-46ec-b702-faae39991ee6.jpg" class="lazy background-image"
-              alt="Ng Kin Meng">
+              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/04b5493d-056d-46ec-b702-faae39991ee6.jpg"
+              class="lazy background-image" alt="Ng Kin Meng">
             <div class="responsive-overlay">
               <div class="text-center preserve3d">
                 <div class="bio vertical-align"></div>
@@ -1642,8 +1644,8 @@
         <div class="speaker">
           <div class="image-holder"><a class="anchor" id="ng-yan-quan-ryan5584"></a> <img
               onerror='this.onerror=null,this.src="images/avatar.png"'
-              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/ddff016f-057f-45c1-9933-613869afef16.jpg" class="lazy background-image"
-              alt="Ng Yan Quan Ryan">
+              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/ddff016f-057f-45c1-9933-613869afef16.jpg"
+              class="lazy background-image" alt="Ng Yan Quan Ryan">
             <div class="responsive-overlay">
               <div class="text-center preserve3d">
                 <div class="bio vertical-align"></div>
@@ -1702,8 +1704,8 @@
         <div class="speaker">
           <div class="image-holder"><a class="anchor" id="rose-evangeline-anne-dagman-destor5509"></a> <img
               onerror='this.onerror=null,this.src="images/avatar.png"'
-              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/0a38cb47-4054-4254-863f-3bd3a04ad450.jpg" class="lazy background-image"
-              alt="Rose Evangeline Anne Dagman Destor">
+              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/0a38cb47-4054-4254-863f-3bd3a04ad450.jpg"
+              class="lazy background-image" alt="Rose Evangeline Anne Dagman Destor">
             <div class="responsive-overlay">
               <div class="text-center preserve3d">
                 <div class="bio vertical-align"></div>
@@ -1763,8 +1765,8 @@
         <div class="speaker">
           <div class="image-holder"><a class="anchor" id="see-yong-qian5503"></a> <img
               onerror='this.onerror=null,this.src="images/avatar.png"'
-              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/5464220d-fa74-447f-b3f5-68116e28435f.jpg" class="lazy background-image"
-              alt="See Yong Qian">
+              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/5464220d-fa74-447f-b3f5-68116e28435f.jpg"
+              class="lazy background-image" alt="See Yong Qian">
             <div class="responsive-overlay">
               <div class="text-center preserve3d">
                 <div class="bio vertical-align"></div>
@@ -1822,8 +1824,8 @@
         <div class="speaker">
           <div class="image-holder"><a class="anchor" id="seth-olav-yong5491"></a> <img
               onerror='this.onerror=null,this.src="images/avatar.png"'
-              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/d5ca609e-beb7-48bf-b1ed-23c6894b67ab.jpg" class="lazy background-image"
-              alt="Seth Olav Yong">
+              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/d5ca609e-beb7-48bf-b1ed-23c6894b67ab.jpg"
+              class="lazy background-image" alt="Seth Olav Yong">
             <div class="responsive-overlay">
               <div class="text-center preserve3d">
                 <div class="bio vertical-align"></div>
@@ -1893,8 +1895,8 @@
         <div class="speaker">
           <div class="image-holder"><a class="anchor" id="tan-rui-yang5600"></a> <img
               onerror='this.onerror=null,this.src="images/avatar.png"'
-              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/1747551b-e352-4f77-acba-07da49bc82c3.jpg" class="lazy background-image"
-              alt="Tan Rui Yang">
+              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/1747551b-e352-4f77-acba-07da49bc82c3.jpg"
+              class="lazy background-image" alt="Tan Rui Yang">
             <div class="responsive-overlay">
               <div class="text-center preserve3d">
                 <div class="bio vertical-align"></div>
@@ -1954,8 +1956,8 @@
         <div class="speaker">
           <div class="image-holder"><a class="anchor" id="tan-shian-pei5545"></a> <img
               onerror='this.onerror=null,this.src="images/avatar.png"'
-              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/08f313a2-d48f-41d2-9e35-47045cd49ed3.jpg" class="lazy background-image"
-              alt="Tan Shian Pei">
+              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/08f313a2-d48f-41d2-9e35-47045cd49ed3.jpg"
+              class="lazy background-image" alt="Tan Shian Pei">
             <div class="responsive-overlay">
               <div class="text-center preserve3d">
                 <div class="bio vertical-align"></div>
@@ -2013,8 +2015,8 @@
         <div class="speaker">
           <div class="image-holder"><a class="anchor" id="tse-min-jia-5543"></a> <img
               onerror='this.onerror=null,this.src="images/avatar.png"'
-              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/a5986a0e-69f8-4567-b1a4-5ecaab66feb4.jpg" class="lazy background-image"
-              alt="Tse Min Jia ">
+              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/a5986a0e-69f8-4567-b1a4-5ecaab66feb4.jpg"
+              class="lazy background-image" alt="Tse Min Jia ">
             <div class="responsive-overlay">
               <div class="text-center preserve3d">
                 <div class="bio vertical-align"></div>
@@ -2078,8 +2080,8 @@
         <div class="speaker">
           <div class="image-holder"><a class="anchor" id="yeng-loan-koan5504"></a> <img
               onerror='this.onerror=null,this.src="images/avatar.png"'
-              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/0bdc09d2-ebdf-40f9-8549-c91868567881.jpg" class="lazy background-image"
-              alt="Yeng Loan Koan">
+              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/0bdc09d2-ebdf-40f9-8549-c91868567881.jpg"
+              class="lazy background-image" alt="Yeng Loan Koan">
             <div class="responsive-overlay">
               <div class="text-center preserve3d">
                 <div class="bio vertical-align"></div>
@@ -2138,8 +2140,8 @@
         <div class="speaker">
           <div class="image-holder"><a class="anchor" id="zhen-xi5512"></a> <img
               onerror='this.onerror=null,this.src="images/avatar.png"'
-              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/010fa18d-2468-465f-9674-2226eec927ae.jpg" class="lazy background-image"
-              alt="Zhen Xi">
+              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/010fa18d-2468-465f-9674-2226eec927ae.jpg"
+              class="lazy background-image" alt="Zhen Xi">
             <div class="responsive-overlay">
               <div class="text-center preserve3d">
                 <div class="bio vertical-align"></div>
@@ -2196,8 +2198,8 @@
         <div class="speaker">
           <div class="image-holder"><a class="anchor" id="zi-jie5510"></a> <img
               onerror='this.onerror=null,this.src="images/avatar.png"'
-              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/9b533d1a-d6d1-4698-a9e9-bec7aeee1632.jpg" class="lazy background-image"
-              alt="Zi Jie">
+              data-original="{{ site.baseurl }}/assets/schedule/images/speakers/9b533d1a-d6d1-4698-a9e9-bec7aeee1632.jpg"
+              class="lazy background-image" alt="Zi Jie">
             <div class="responsive-overlay">
               <div class="text-center preserve3d">
                 <div class="bio vertical-align"></div>
@@ -2319,7 +2321,7 @@
         }), 0 == $(".speaker:visible").length ? ($("#no-results").remove(), $(".search-filter-speaker:first")
           .after(
             '<p id="no-results" style="color: red; padding-left: 25px; margin-left: 30px; font-weight: bold">No matching results found.</p>'
-            )) : $("#no-results").remove(), !1
+          )) : $("#no-results").remove(), !1
       }).keyup(function () {
         $(this).change()
       })
