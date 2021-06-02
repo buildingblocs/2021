@@ -164,7 +164,25 @@ For AIWinpetition 2021, we have a total of 6 themes. For each of the themes, we 
 
 ## Submissions
 
-Stay tuned for the google form to submit your ideation docs!
+<div>
+<details>
+  <summary><strong>Draft First Submission (closes at 1815)</strong></summary>
+  <br>
+  <p>If you would like feedback before you submit at night, submit your draft writeup by day 1, 1815 below. We will return the feedback by 2100. The draft writeup is not graded.</p>
+  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfaJxjCWuUNoiKxIwTz7Knixy3P14A2uyHhYCHECQP7XXN38g/viewform?embedded=true" width="640" height="1251" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+</details>
+
+<br><br>
+
+<details>
+  <summary><strong>First Submission (closes at 2359)</strong></summary>
+  <br>
+  <p>Your task is to create a 150 word writeup regarding your idea, to be submitted by day 1, 2359. This is a compulsory submission worth 400 points.</p>
+  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScVHDloakXuoHZY1EBwnLT8JNrzVbqafTeZKlciRuACcYYj0Q/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+</details>
+
+<br>
+</div>
 
 ---
 
