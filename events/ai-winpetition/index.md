@@ -37,7 +37,7 @@ Students will be given various themes to choose from and maximise their creative
     <tr>
       <td>1400-2359</td>
       <td>Consultations Slots Open</td>
-      <td>Participants who are stuck in the ideation process can proceed to Discord #conference-help channel to get a ticket which books them a slot with one of the AI Workshop Speakers who would help them in the ideation process. <i>Note the speakers would not directly give you answers, but rather would prompt you in the right direction</i></td>
+      <td>Participants who are stuck in the ideation process can proceed to Discord #conference-consultation channel to get a ticket which books them a slot with one of the AI Workshop Speakers who would help them in the ideation process. <i>Note the speakers would not directly give you answers, but rather would prompt you in the right direction</i></td>
     </tr>
     <tr>
       <td><strong>By 2359</strong></td>
