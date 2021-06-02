@@ -215,4 +215,6 @@ For AIWinpetition 2021, we have 3 types of prizes up for grabs!
 
 ## Resources
 
-Stay tuned for the list of resources prepared by the organisers to help you in the AIWinpetition!!!
+The organisers have compiled a list of resources [**here**](https://go.buildingblocs.sg/winpetition/booklet/details). Do use them wisely!
+
+On top of that if you require any help during the competition, feel free to get a ticket within our [Discord Server](https://go.buildingblocs.sg/discord) (under #conference-consultation), and our organisers would be there to assist you.
