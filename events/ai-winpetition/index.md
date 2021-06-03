@@ -166,9 +166,9 @@ For AIWinpetition 2021, we have a total of 6 themes. For each of the themes, we 
 
 <div>
 <details>
-  <summary><strong>Second Submission (closes at 1745)</strong></summary>
+  <summary><strong>Second Submission (closes at 1800)</strong></summary>
   <br>
-  <p>Submit your current prototype by day 2, 1745 below. We will return the feedback by 2359. This submission will be graded and up to 400 points can be awarded.</p>
+  <p>Submit your current prototype by day 2, 1800 below. We will return the feedback by 2359. This submission will be graded and up to 400 points can be awarded.</p>
   
   <p>Please note <strong>code and non-code options are allowed</strong> and the prototype <strong>does not need to be complete</strong></p>
 
