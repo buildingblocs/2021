@@ -16,7 +16,6 @@ $link-spacing: 0.3333333em;
 
 .navigation {
     padding: 3rem-1rem 2rem;
-    overflow: hidden; // hide hidden menu content
     display: flex;
     flex-wrap: wrap;
     align-items: center;
@@ -83,7 +82,7 @@ $link-spacing: 0.3333333em;
 }
 
 .navigation-wrapper {
-    position: fixed;
+    position: relative;
     top: 0;
     z-index: 10;
     width: 100%;
