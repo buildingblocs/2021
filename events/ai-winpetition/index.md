@@ -24,7 +24,7 @@ layout: default
       <br>
 
       <details>
-        <summary><strong>Day 1</strong></summary>
+        <summary><strong>(COMPLETED) Day 1</strong></summary>
         <br>
         <table>
           <tr>
@@ -60,10 +60,32 @@ layout: default
       <br><br>
 
       <details>
-        <summary><strong>Day 2</strong></summary>
+        <summary><strong>(COMPLETED) Day 2</strong></summary>
         <br>
-        <p>Stay tuned for Day 2 Schedule!</p>
-        <small><i>You do not need to follow or use any of the guiding questions if you do not want to</i></small>
+        <table>
+          <tr>
+            <th><strong>Timings</strong></th>
+            <th><strong>Activity</strong></th>
+            <th><strong>Description</strong></th>
+          </tr>
+          <tr>
+            <td>0945-1045</td>
+            <td>Teams work on second submission</td>
+            <td>Teams are to work together in their breakout rooms on their prototype</td>
+          </tr>
+          <tr>
+            <td>1445-1550</td>
+            <td>Teams work on second submission</td>
+            <td>Teams are to work together in their breakout rooms on their prototype</td>
+          </tr>
+          <tr>
+            <td>1630-1745</td>
+            <td>Teams work on second submission</td>
+            <td>Teams are to work together in their breakout rooms on their prototype</td>
+          </tr>
+        </table>
+        <br>
+        <small><i>Based on the current situations, the schedule is subjected to changes</i></small>
       </details>
 
       <br><br>
@@ -71,8 +93,50 @@ layout: default
       <details>
         <summary><strong>Day 3</strong></summary>
         <br>
-        <p>Stay tuned for Day 3 Schedule!</p>
-        <small><i>You do not need to follow or use any of the guiding questions if you do not want to</i></small>
+        <table>
+          <tr>
+            <th><strong>Timings</strong></th>
+            <th><strong>Activity</strong></th>
+            <th><strong>Description</strong></th>
+          </tr>
+          <tr>
+            <td>1025-1730</td>
+            <td>Teams to work on final submission</td>
+            <td>Teams are to work together in their breakout rooms on their prototype and video</td>
+          </tr>
+          <tr>
+            <td>1100-1300</td>
+            <td>Trivia 1</td>
+            <td>Complete the following courses on BuildingBloCS Coursemology Website:
+              <ul>
+                <li>"Check Your Understanding: Face Recognition with Python"</li>
+              </ul>
+            </td>
+          </tr>
+          <tr>
+            <td>1400-1430</td>
+            <td>Games 1</td>
+            <td>More details to be released soon!</td>
+          </tr>
+          <tr>
+            <td>1500-1600</td>
+            <td>Trivia 2</td>
+            <td>Complete the following courses on BuildingBloCS Coursemology Website:
+              <ul>
+                <li>"Check Your Understanding: Introduction to Machine Learning"</li>
+                <li>"Check Your Understanding: Dino AI"</li>
+                <li>"Check Your Understanding: Music with AI"</li>
+              </ul>
+            </td>
+          </tr>
+          <tr>
+            <td>1630-1700</td>
+            <td>Games 2</td>
+            <td>More details to be released soon!</td>
+          </tr>
+        </table>
+        <br>
+        <small><i>Based on the current situations, the schedule is subjected to changes</i></small>
       </details>
 
       <br>
