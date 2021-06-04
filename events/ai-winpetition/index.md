@@ -116,7 +116,12 @@ layout: default
           <tr>
             <td>1400-1430</td>
             <td>Games 1</td>
-            <td>More details to be released soon!</td>
+            <td><a href="https://research.google.com/semantris">Semantris</a> is a word association game powered by machine learning made by Google.
+              <ul>
+                <li>Part 1: List words related to the prompt as quickly as possible (Arcade Mode).</li>
+                <li>Part 2: Summarise the technology behind Semantris in 150 words using advanced keywords related to machine learning.</li>
+              </ul>
+            </td>
           </tr>
           <tr>
             <td>1500-1600</td>
@@ -292,6 +297,23 @@ layout: default
 
       <br><br>
 
+      <details>
+        <summary><strong>Games 1 Submission (opens at 1400, closes at 1430)</strong></summary>
+        <br>
+        <p><a href="https://research.google.com/semantris">Semantris</a> is a word association game powered by machine learning made by Google.</p>
+        <ul>
+          <li>Part 1: List words related to the prompt as quickly as possible (Arcade Mode).</li>
+          <li>Part 2: Summarise the technology behind Semantris in 150 words using advanced keywords related to machine learning.</li>
+        </ul>
+
+        <p>You can gain up to <strong>400 points</strong></p>
+
+        <p>Please submit your answers below <strong>before 1430</strong></p>
+
+        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeedC3yVYRgl3IK4ROId5yaaewK1TN7mI3IwxHM6IRmTbmWZA/viewform?embedded=true" width="640" height="1251" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+      </details>
+
+      <br><br>
 
       <details>
         <summary><strong>Trivia 2 Submission (opens at 1500, closes at 1600)</strong></summary>
