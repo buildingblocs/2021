@@ -308,9 +308,9 @@ layout: default
 
         <p>You can gain up to <strong>400 points</strong></p>
 
-        <p>Please submit your answers below <strong>before 1430</strong></p>
+        <p>Please submit your answers <a href="https://go.buildingblocs.sg/games/1">here</a> <strong>before 1430</strong></p>
 
-        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeedC3yVYRgl3IK4ROId5yaaewK1TN7mI3IwxHM6IRmTbmWZA/viewform?embedded=true" width="640" height="1251" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
       </details>
 
       <br><br>
