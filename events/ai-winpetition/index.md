@@ -332,7 +332,30 @@ layout: default
 
       <br><br>
 
+      <details>
+        <summary><strong>Games 2 Submission (opens at 1630, closes at 1700)</strong></summary>
+        <br>
+        <p>Head over to <a href="https://affinelayer.com/pixsrv/">Pixsrv</a></p>
+        <ul>
+          <li>
+            Task 1
+            <ul>
+              <li>Draw a museum with the facades tool, and submit a photo file of the converted drawing.</li>
+              <li>Judged on how closely it resembles a museum and its <strong>aesthetics</strong>.</li>
+            </ul>
+          </li>
+          <li>
+            Task 2
+            <ul>
+              <li>Summarise how Image-to-Image demonstration works in 150 words using advanced machine learning keywords.</li>
+            </ul>
+          </li>
+        </ul>
 
+        <p>You can gain up to <strong>400 points</strong></p>
+
+        <p>Please submit your answers <a href="https://go.buildingblocs.sg/games/2">here</a> <strong>before 1700</strong></p>
+      </details>
 
       <br>
     </div>
