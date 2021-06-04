@@ -228,23 +228,6 @@ layout: default
 
       <br><br>
 
-      <details>
-        <summary><strong>Games 1 Submission (opens at 1400, closes at 1430)</strong></summary>
-        <br>
-        <p><a href="https://research.google.com/semantris">Semantris</a> is a word association game powered by machine learning made by Google.</p>
-        <ul>
-          <li>Part 1: List words related to the prompt as quickly as possible (Arcade Mode).</li>
-          <li>Part 2: Summarise the technology behind Semantris in 150 words using advanced keywords related to machine learning.</li>
-        </ul>
-
-        <p>You can gain up to <strong>400 points</strong></p>
-
-        <p>Please submit your answers below <strong>before 1430</strong></p>
-
-        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeedC3yVYRgl3IK4ROId5yaaewK1TN7mI3IwxHM6IRmTbmWZA/viewform?embedded=true" width="640" height="1251" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-      </details>
-
-      <br><br>
 
       <details>
         <summary><strong>Trivia 2 Submission (opens at 1500, closes at 1600)</strong></summary>
@@ -263,32 +246,7 @@ layout: default
 
       <br><br>
 
-      <details>
-        <summary><strong>Games 2 Submission (opens at 1630, closes at 1700)</strong></summary>
-        <br>
-        <p>Head over to <a href="https://affinelayer.com/pixsrv/">Pixsrv</a></p>
-        <ul>
-          <li>
-            Task 1
-            <ul>
-              <li>Draw a museum with the facades tool, and submit a photo file of the converted drawing.</li>
-              <li>Judged on how closely it resembles a museum and its <strong>aesthetics</strong>.</li>
-            </ul>
-          </li>
-          <li>
-            Task 2
-            <ul>
-              <li>Summarise how Image-to-Image demonstration works in 150 words using advanced machine learning keywords.</li>
-            </ul>
-          </li>
-        </ul>
 
-        <p>You can gain up to <strong>400 points</strong></p>
-
-        <p>Please submit your answers below <strong>before 1700</strong></p>
-
-        <iframe src="https://docs.google.com/forms/d/1MX5PIx8Bnj-BtfcqxMrIUzjxqODaa2J6YEjXewoQJIM/viewform?embedded=true" width="640" height="1251" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-      </details>
 
       <br>
     </div>
