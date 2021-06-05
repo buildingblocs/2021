@@ -123,7 +123,7 @@ Voting is now here!!! Remember theme prizes are determined solely off the voting
         <summary><strong>Team 10</strong></summary>
         <br>
         <ul>
-          <li>Click <a href="https://drive.google.com/file/d/1Midg-7Y6oaODHvglay4Cev7vJjs0lkHH/view?usp=sharing">here</a> to view video</li>
+          <li>Click <a href="https://drive.google.com/file/d/1KWleuXDby9whjHwtsQax7ZeBQnY0MLcc/view?usp=sharing">here</a> to view video</li>
           <li>Click <a href="https://drive.google.com/file/d/1xXZUDAWMDqT9uHh39UJUniIJLvZ9OZFp/view?usp=sharing">here</a> to view prototype</li>
           <li>Click <a href="https://github.com/yewcheng/AIWinpetition2_10_ABI">here</a> to view Github Repository</li>
         </ul>
