@@ -29,6 +29,7 @@ Voting is now here!!! Remember theme prizes are determined solely off the voting
         <br>
         <ul>
           <li>Click <a href="https://drive.google.com/file/d/1U8s-fy0gRW7mOwdchNYDd2XSmduTCnWD/view?usp=sharing">here</a> to view video</li>
+          <li>Click <a href="https://drive.google.com/file/d/1b4DzStA6A3Y033goFR3Jh4fnj5PRqUrY/view?usp=sharing">here</a> to view prototype</li>
         </ul>
       </details>
       <br><br>
@@ -115,6 +116,17 @@ Voting is now here!!! Remember theme prizes are determined solely off the voting
           <li>Click <a href="https://teachablemachine.withgoogle.com/models/7lF0Kc5ze/">here</a> to view prototype</li>
           <li>Click <a href="https://drive.google.com/file/d/1NCTvxBa3OB4AYgZsWvHqrSwSbn3lyEKD/view?usp=sharing">here</a> to view supporting documents</li>
           <li>Click <a href="https://github.com/IEatRiceWithAFork/AIWinpetition3_9_DetectLah">here</a> to view Github Repository</li>
+        </ul>
+      </details>
+      <br><br>
+      <details>
+        <summary><strong>Team 10</strong></summary>
+        <br>
+        <ul>
+          <li>Click <a href="https://drive.google.com/file/d/1Midg-7Y6oaODHvglay4Cev7vJjs0lkHH/view?usp=sharing">here</a> to view video</li>
+          <li>Click <a href="https://aiwinpetition.wordpress.com/">here</a> to view prototype</li>
+          <li>Click <a href="https://drive.google.com/file/d/1xXZUDAWMDqT9uHh39UJUniIJLvZ9OZFp/view?usp=sharing">here</a> to view supporting documents</li>
+          <li>Click <a href="https://github.com/yewcheng/AIWinpetition2_10_ABI">here</a> to view Github Repository</li>
         </ul>
       </details>
     </div>
