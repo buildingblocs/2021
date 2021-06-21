@@ -21,9 +21,9 @@ Voting is now here!!! Remember theme prizes are determined solely off the voting
 
 <div>
   <details>
-    <summary><h2 style="display: inline;">Voting!</h2></summary>
+    <summary><h2 style="display: inline;">Final Submissions</h2></summary>
     <div>
-      <p>Click below to find out more about the submissions from the different teams! You are allowed to vote for different teams for video and prototype winners</p>
+      <p>Click below to find out more about the submissions from the different teams!</p>
       <details>
         <summary><strong>Team 1</strong></summary>
         <br>
@@ -83,7 +83,6 @@ Voting is now here!!! Remember theme prizes are determined solely off the voting
           <li>Click <a href="https://drive.google.com/file/d/1Y8f2aF1nvIr_GPvBFpwH0SrtLCX6NEDZ/view?usp=sharing">here</a> to view video</li>
           <li>Click <a href="https://drive.google.com/file/d/1nKsMFwesxBuWn0YQDomlTUPNPYj3p7bi/view?usp=sharing">here</a> to view prototype</li>
           <li>Click <a href="https://drive.google.com/file/d/1VN1lmTQOvN3Wm9nlarGpAI-B_IRiFYUi/view?usp=sharing">here</a> to view supporting documents</li>
-          <li>Click <a href="https://github.com/RottenLemons/AIWinpetition3_6_AImax">here</a> to view Github Repository</li>
         </ul>
       </details>
       <br><br>
