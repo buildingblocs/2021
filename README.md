@@ -12,7 +12,7 @@
 ### Setup
 
 ```
-git clone git@github.com:serverwentdown/buildingblocs.github.io.git
+git clone https://github.com/buildingblocs/2021.git
 ```
 
 Install project dependencies:
